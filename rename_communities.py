@@ -77,6 +77,68 @@ def analyze_communities(graph_path: str = "graphify-out/graph.json") -> dict:
 
     return community_names
 
+def update_graph_json(
+    graph_path: str = "graphify-out/graph.json",
+    community_names: dict = None
+):
+    """Update community_name in graph.json for all nodes."""
+    if community_names is None:
+        community_names = analyze_communities(graph_path)
+
+    graph_file = Path(graph_path)
+    if not graph_file.exists():
+        print(f"Warning: {graph_path} not found, skipping graph.json update")
+        return
+
+    with open(graph_file) as f:
+        data = json.load(f)
+
+    updated_count = 0
+    for node in data.get("nodes", []):
+        community = node.get("community")
+        if community in community_names and community_names[community]:
+            old_name = node.get("community_name", "")
+            new_name = community_names[community]
+            if old_name != new_name:
+                node["community_name"] = new_name
+                updated_count += 1
+
+    with open(graph_file, "w") as f:
+        json.dump(data, f)
+
+    print(f"Updated {updated_count} nodes in {graph_path}")
+
+def update_graph_html(
+    html_path: str = "graphify-out/graph.html",
+    community_names: dict = None,
+    graph_path: str = "graphify-out/graph.json"
+):
+    """Update community_name in graph.html for all nodes."""
+    if community_names is None:
+        community_names = analyze_communities(graph_path)
+
+    html_file = Path(html_path)
+    if not html_file.exists():
+        print(f"Warning: {html_path} not found, skipping HTML update")
+        return
+
+    content = html_file.read_text()
+
+    # Replace "Community N" with project name in the embedded data
+    # Pattern: "community_name": "Community N"
+    updated_count = 0
+    for comm_num, project_name in community_names.items():
+        if project_name:
+            # Match "Community N" where N is the community number
+            pattern = f'"community_name": "Community {comm_num}"'
+            replacement = f'"community_name": "{project_name}"'
+            if pattern in content:
+                content = content.replace(pattern, replacement)
+                updated_count += 1
+
+    html_file.write_text(content)
+    print(f"Updated {updated_count} community names in {html_path}")
+
 def update_graph_report(
     report_path: str = "graphify-out/GRAPH_REPORT.md",
     graph_path: str = "graphify-out/graph.json"
@@ -84,6 +146,9 @@ def update_graph_report(
     """Update GRAPH_REPORT.md with project names instead of 'Community N'."""
 
     community_names = analyze_communities(graph_path)
+
+    # Also update graph.html with project names
+    update_graph_html(community_names=community_names, graph_path=graph_path)
 
     report_file = Path(report_path)
     if not report_file.exists():
