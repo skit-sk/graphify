@@ -1,0 +1,2538 @@
+{
+  "/home/user_aioc/workspace/bitget_checker.py": {
+    "mtime": 1777336456.1230798,
+    "hash": "abd2f4632383792084fb0516bdd71daf"
+  },
+  "/home/user_aioc/workspace/flask_manager.py": {
+    "mtime": 1777821535.2809055,
+    "hash": "5efcd7b0b07752545fcc298c1f6d73b2"
+  },
+  "/home/user_aioc/workspace/demo_charts_ascii/app.py": {
+    "mtime": 1777824078.6999938,
+    "hash": "1b15ff14adc6319c5137b3a71465dd94"
+  },
+  "/home/user_aioc/workspace/demo_charts_ascii/generators/termgraph_gen.py": {
+    "mtime": 1777822042.5455084,
+    "hash": "3429b55b5aa3216001809fd30b1ab3b1"
+  },
+  "/home/user_aioc/workspace/demo_charts_ascii/generators/asciichart_gen.py": {
+    "mtime": 1777822020.610013,
+    "hash": "3cdd999487029f852e27ccd750e5ab59"
+  },
+  "/home/user_aioc/workspace/demo_charts_ascii/generators/base.py": {
+    "mtime": 1777821974.259967,
+    "hash": "51a98d9bc4327debbaa427bb3fb03627"
+  },
+  "/home/user_aioc/workspace/demo_charts_ascii/generators/summary_gen.py": {
+    "mtime": 1777822059.827899,
+    "hash": "782053bc9ecb1c6d29d8930fc95391f4"
+  },
+  "/home/user_aioc/workspace/demo_charts_ascii/generators/__init__.py": {
+    "mtime": 1777818380.472217,
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "/home/user_aioc/workspace/demo_charts_ascii/generators/plotext_gen.py": {
+    "mtime": 1777823702.7352738,
+    "hash": "16e1baeed784ddb8093c2d2c0a5f2d80"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/skills/ui-ux-design-pro/cli/index.ts": {
+    "mtime": 1777911194.4138863,
+    "hash": "928ecc2fe09927891f99faf960eb460e"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/skills/ui-ux-design-pro/cli/lib/generators.ts": {
+    "mtime": 1777911194.4138863,
+    "hash": "3e88d6ca3562a3e61c1552f5b0d1c13a"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/skills/ui-ux-design-pro/cli/lib/search.ts": {
+    "mtime": 1777911194.4148862,
+    "hash": "275c16637508dceef54d3c650e9cc28b"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/skills/ui-ux-design-pro/cli/commands/audit.ts": {
+    "mtime": 1777911194.404886,
+    "hash": "fdb9d717f0193f9ac63a555e194a12eb"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/skills/ui-ux-design-pro/cli/commands/icons.ts": {
+    "mtime": 1777911194.405886,
+    "hash": "25ce1af72ab6e15d62d4d2745b22a0c8"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/skills/ui-ux-design-pro/cli/commands/generate.ts": {
+    "mtime": 1777911194.405886,
+    "hash": "e0f4a254ee82e7895af93f32978ec2f9"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/skills/ui-ux-design-pro/cli/commands/search.ts": {
+    "mtime": 1777911194.405886,
+    "hash": "c33cb1afe5669943fb9e49b9fb3112e7"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/test/audit_pass.tsx": {
+    "mtime": 1777911194.4168863,
+    "hash": "0baaab0ec150cbcb9aa80f25fcd04575"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/test/audit_fail.tsx": {
+    "mtime": 1777911194.4168863,
+    "hash": "4372032385ca7428c50815af38ba8974"
+  },
+  "/home/user_aioc/workspace/fundament_rf/storage.py": {
+    "mtime": 1777694015.0554025,
+    "hash": "fa6d507234042ffcf4090d121663e16a"
+  },
+  "/home/user_aioc/workspace/fundament_rf/migrate_to_card.py": {
+    "mtime": 1777694139.2261844,
+    "hash": "5fe032047eed896b48f1928422472202"
+  },
+  "/home/user_aioc/workspace/fundament_rf/models.py": {
+    "mtime": 1777329470.8762324,
+    "hash": "b132159e337535b6edb4459a994ae1b3"
+  },
+  "/home/user_aioc/workspace/fundament_rf/restart_flask.py": {
+    "mtime": 1777329729.8211417,
+    "hash": "38f66e723ec461b553805409fba97e7b"
+  },
+  "/home/user_aioc/workspace/fundament_rf/app.py": {
+    "mtime": 1777821417.2971928,
+    "hash": "69e59b034fc63fe5e60884ea33a105d7"
+  },
+  "/home/user_aioc/workspace/fundament_rf/infographics/calendar.py": {
+    "mtime": 1777694092.4641356,
+    "hash": "55520e81844cee3ad0d2b180653f700c"
+  },
+  "/home/user_aioc/workspace/fundament_rf/infographics/kpi.py": {
+    "mtime": 1777694096.324222,
+    "hash": "bcca70593b5a827ce52aed1140b94466"
+  },
+  "/home/user_aioc/workspace/fundament_rf/infographics/equity.py": {
+    "mtime": 1777694088.819054,
+    "hash": "3d04930ecc41bfc185f3a9d0566bd1a9"
+  },
+  "/home/user_aioc/workspace/fundament_rf/infographics/svg.py": {
+    "mtime": 1777672821.8990548,
+    "hash": "360d34d3d20067721ea41cfaf465afcc"
+  },
+  "/home/user_aioc/workspace/fundament_rf/infographics/charts.py": {
+    "mtime": 1777677393.453306,
+    "hash": "cebdad1ad282302078e1bd55412207fb"
+  },
+  "/home/user_aioc/workspace/fundament_rf/infographics/__init__.py": {
+    "mtime": 1777664121.6050017,
+    "hash": "1039adc0596e75e7cb06aa6186a420b3"
+  },
+  "/home/user_aioc/workspace/fundament_rf/routes/api.py": {
+    "mtime": 1777694115.9526622,
+    "hash": "852166659c397194a5710d29288a2e62"
+  },
+  "/home/user_aioc/workspace/fundament_rf/routes/processor_1d.py": {
+    "mtime": 1777694075.7197604,
+    "hash": "ec65cd996dc832c2470d029cb7d6efda"
+  },
+  "/home/user_aioc/workspace/fundament_rf/routes/graphics.py": {
+    "mtime": 1777426514.137573,
+    "hash": "610e9ebbc6a214defc9e283871c11090"
+  },
+  "/home/user_aioc/workspace/fundament_rf/routes/__init__.py": {
+    "mtime": 1777664222.6882317,
+    "hash": "39c53636116c4a0e3383e2157bdc13cd"
+  },
+  "/home/user_aioc/workspace/fundament_rf/routes/web.py": {
+    "mtime": 1777694107.0144618,
+    "hash": "2f6190ab54f0c4f4eee3d9473de06b28"
+  },
+  "/home/user_aioc/workspace/fundament_rf/routes/dashboard.py": {
+    "mtime": 1777677403.372532,
+    "hash": "d38713a9b19cfbb946f2c89126b48bbb"
+  },
+  "/home/user_aioc/workspace/graphs_candle/flask_daemon.py": {
+    "mtime": 1776812518.6134493,
+    "hash": "14cf90fdb22bf11953e643e710dc4e30"
+  },
+  "/home/user_aioc/workspace/graphs_candle/main.py": {
+    "mtime": 1777821417.299193,
+    "hash": "495ca528039debef0d0866836e08d337"
+  },
+  "/home/user_aioc/workspace/graphs_candle/charts/candlestick.py": {
+    "mtime": 1776808651.4284656,
+    "hash": "1fb8540e3a3a53eeda9b31969a7b22a0"
+  },
+  "/home/user_aioc/workspace/graphs_candle/charts/pnl.py": {
+    "mtime": 1776808666.7098231,
+    "hash": "bac45413e6bfe46144ab4e342b93899f"
+  },
+  "/home/user_aioc/workspace/graphs_candle/charts/combined.py": {
+    "mtime": 1776808660.8766868,
+    "hash": "f094e483d5374ef52499b2764cb49dca"
+  },
+  "/home/user_aioc/workspace/graphs_candle/charts/__init__.py": {
+    "mtime": 1776803548.2410665,
+    "hash": "9e98a2432875f70495143f24d4554b35"
+  },
+  "/home/user_aioc/workspace/graphs_candle/charts/svg_charts.py": {
+    "mtime": 1776852092.89781,
+    "hash": "ec1f8ab609bde713df2698ebb30daa97"
+  },
+  "/home/user_aioc/workspace/graphs_candle/data/patterns.py": {
+    "mtime": 1776803543.030948,
+    "hash": "06a426885013d43a7db1f3ac3520ed7a"
+  },
+  "/home/user_aioc/workspace/graphs_candle/data/fetcher.py": {
+    "mtime": 1776803503.1470404,
+    "hash": "7d9f2eec9137eff7548e64ac419b1990"
+  },
+  "/home/user_aioc/workspace/graphs_candle/data/generator.py": {
+    "mtime": 1776803520.9844463,
+    "hash": "fa87c21e5dc6684fbd99f2480be6c4e9"
+  },
+  "/home/user_aioc/workspace/graphs_candle/data/__init__.py": {
+    "mtime": 1776804269.8593946,
+    "hash": "e7cc044100ae26ec638bc0a6c7e6b47d"
+  },
+  "/home/user_aioc/workspace/scripts/yt_transcript_ytdlp.py": {
+    "mtime": 1776893850.9850178,
+    "hash": "2938a8b40361d9a8c53faf2af3a23fab"
+  },
+  "/home/user_aioc/workspace/scripts/remove_system_reminder_from_zips.py": {
+    "mtime": 1776950591.374538,
+    "hash": "f875c5ff1119505da3eee24e2721f1ae"
+  },
+  "/home/user_aioc/workspace/scripts/transcript_pipeline.py": {
+    "mtime": 1776894226.9292467,
+    "hash": "606fed62f494b61734e8f1ed8798e5dc"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/update_widgets.py": {
+    "mtime": 1777599648.8135452,
+    "hash": "c4c776a9c698fddf2964df236b734206"
+  },
+  "/home/user_aioc/workspace/transcript/yt_transcript_ytdlp.py": {
+    "mtime": 1776893916.2164452,
+    "hash": "6cea16198fc9bb0a535ef327d3352f03"
+  },
+  "/home/user_aioc/workspace/transcript/transcript_pipeline.py": {
+    "mtime": 1776896666.9921863,
+    "hash": "fae748b1e0f90e936da8fdf3963f99d9"
+  },
+  "/home/user_aioc/workspace/transcript/playlist_transcript.py": {
+    "mtime": 1776896282.5456152,
+    "hash": "1591a9010463739c2644039423f3600b"
+  },
+  "/home/user_aioc/workspace/tools/flask-runner/runner.py": {
+    "mtime": 1777821417.2841926,
+    "hash": "fbbab4f2e4c64f63c28b798094adcf1a"
+  },
+  "/home/user_aioc/workspace/tools/flask/runner.py": {
+    "mtime": 1777821417.2841926,
+    "hash": "fbbab4f2e4c64f63c28b798094adcf1a"
+  },
+  "/home/user_aioc/workspace/tools/flask/flask_manager.py": {
+    "mtime": 1777821535.2809055,
+    "hash": "5efcd7b0b07752545fcc298c1f6d73b2"
+  },
+  "/home/user_aioc/workspace/MEMPALACE_OPENCODE_INTEGRATION.md": {
+    "mtime": 1777637635.8260553,
+    "hash": "cca05186a2a8ca6480ab3679d4674427"
+  },
+  "/home/user_aioc/workspace/AGENTS.md": {
+    "mtime": 1777911523.4294648,
+    "hash": "2b2f3343f0315adb8c1f456bf20f5fae"
+  },
+  "/home/user_aioc/workspace/session-ses_22c8.md": {
+    "mtime": 1777426883.546909,
+    "hash": "0dd4607b463e3c8084216fdd48fc40e3"
+  },
+  "/home/user_aioc/workspace/future.md": {
+    "mtime": 1776896861.5189066,
+    "hash": "a3195d4c89d049734bae623960a51172"
+  },
+  "/home/user_aioc/workspace/L_SKILL.md": {
+    "mtime": 1777638754.745279,
+    "hash": "e344e7023d79fbab1aa831dba34cedb3"
+  },
+  "/home/user_aioc/workspace/demo_charts_ascii/requirements.txt": {
+    "mtime": 1777818380.467217,
+    "hash": "758f8beb25a2d3dc7e57573dfe0aed35"
+  },
+  "/home/user_aioc/workspace/demo_charts_ascii/templates/index.html": {
+    "mtime": 1777823666.1434393,
+    "hash": "1301048a521c43576c9093f55701d7f2"
+  },
+  "/home/user_aioc/workspace/demo_charts_ascii/outputs/plotext/ATOM_close.html": {
+    "mtime": 1777821631.9441257,
+    "hash": "fc62c3cebbf85c530e79ac10e4000f6e"
+  },
+  "/home/user_aioc/workspace/demo_charts_ascii/outputs/plotext/ADA_close.html": {
+    "mtime": 1777821568.8876777,
+    "hash": "fc62c3cebbf85c530e79ac10e4000f6e"
+  },
+  "/home/user_aioc/workspace/demo_charts_ascii/outputs/plotext/ADA_close.txt": {
+    "mtime": 1777821568.900678,
+    "hash": "7f7d3aea96afc90c19069dba07422979"
+  },
+  "/home/user_aioc/workspace/demo_charts_ascii/outputs/plotext/API3_close.html": {
+    "mtime": 1777821573.7597895,
+    "hash": "fc62c3cebbf85c530e79ac10e4000f6e"
+  },
+  "/home/user_aioc/workspace/demo_charts_ascii/outputs/plotext/API3_close.txt": {
+    "mtime": 1777821573.7697897,
+    "hash": "26d63f0f836e59b49b21789837b6424b"
+  },
+  "/home/user_aioc/workspace/demo_charts_ascii/outputs/plotext/ADA_charts.html": {
+    "mtime": 1777831377.6309214,
+    "hash": "ebccfc4d3e3f72221bf6eb8b3eb82c1e"
+  },
+  "/home/user_aioc/workspace/demo_charts_ascii/outputs/plotext/ATOM_close.txt": {
+    "mtime": 1777821631.954126,
+    "hash": "b8650fd30ad79bdabfaa7625368352c0"
+  },
+  "/home/user_aioc/workspace/demo_charts_ascii/outputs/plotext/API3_charts.html": {
+    "mtime": 1777838018.769465,
+    "hash": "7d8a00b303e7396ce69bfdc8091efc17"
+  },
+  "/home/user_aioc/workspace/demo_charts_ascii/outputs/termgraph/API3_close.txt": {
+    "mtime": 1777821580.1549366,
+    "hash": "1ee745a57e0bab18e9209d41a55c69f7"
+  },
+  "/home/user_aioc/workspace/demo_charts_ascii/outputs/termgraph/ATOM_close.txt": {
+    "mtime": 1777821609.5946126,
+    "hash": "c6759ee2e676ffb2077e874da74b4e4e"
+  },
+  "/home/user_aioc/workspace/demo_charts_ascii/outputs/termgraph/ADA_charts.txt": {
+    "mtime": 1777831403.8425164,
+    "hash": "8fc9a75a9c2956bb321bbbc7f698b283"
+  },
+  "/home/user_aioc/workspace/demo_charts_ascii/outputs/termgraph/API3_charts.txt": {
+    "mtime": 1777831469.136999,
+    "hash": "1c480011b7d36500795056b67edb8166"
+  },
+  "/home/user_aioc/workspace/demo_charts_ascii/outputs/asciichart/ADA_close.txt": {
+    "mtime": 1777821539.8810112,
+    "hash": "6ba1092935a15ab024ff74e2ac078763"
+  },
+  "/home/user_aioc/workspace/demo_charts_ascii/outputs/asciichart/API3_close.txt": {
+    "mtime": 1777821538.1379712,
+    "hash": "13caa6c4fee848fc205937823e08eb4c"
+  },
+  "/home/user_aioc/workspace/demo_charts_ascii/outputs/asciichart/ATOM_close.txt": {
+    "mtime": 1777821620.283858,
+    "hash": "5ec51c0e1a3361b4a1dec418d4da47bd"
+  },
+  "/home/user_aioc/workspace/demo_charts_ascii/outputs/asciichart/ADA_charts.txt": {
+    "mtime": 1777831351.5523295,
+    "hash": "995d23ab643d12e278895d4b7c9c7139"
+  },
+  "/home/user_aioc/workspace/demo_charts_ascii/outputs/asciichart/API3_charts.txt": {
+    "mtime": 1777849803.8674686,
+    "hash": "783cd7f2a89d0bc49935604d509bbc9c"
+  },
+  "/home/user_aioc/workspace/demo_charts_ascii/outputs/summary/API3_summary.txt": {
+    "mtime": 1777831465.6919208,
+    "hash": "edd60935c48ccda4c38fff6d31352150"
+  },
+  "/home/user_aioc/workspace/demo_charts_ascii/outputs/summary/ADA_summary.txt": {
+    "mtime": 1777831453.588646,
+    "hash": "432b7373da0338857b20576064d5a5e8"
+  },
+  "/home/user_aioc/workspace/skills/README.md": {
+    "mtime": 1777911479.590454,
+    "hash": "f011de4af91e7795398efdc0ebcae095"
+  },
+  "/home/user_aioc/workspace/skills/graphifyy/skill.md": {
+    "mtime": 1777911294.7591958,
+    "hash": "8cb16374df1a0c316dad069de7a82213"
+  },
+  "/home/user_aioc/workspace/skills/graphifyy/instructions.md": {
+    "mtime": 1777911328.2689674,
+    "hash": "364f12e4a03abd1e0878584dc1e9a3ae"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/skill.md": {
+    "mtime": 1777911368.9089036,
+    "hash": "2e7f6452dea95a3e2f2c023bcc918f68"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/CONTRIBUTING.md": {
+    "mtime": 1777911262.539454,
+    "hash": "f276d3a35cfc009698c72ab6eb864c9a"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/instructions.md": {
+    "mtime": 1777911411.5908868,
+    "hash": "ff39e99069280622397b4d426db010e2"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/README.md": {
+    "mtime": 1777911262.540454,
+    "hash": "fb7e45d49037eef958f2620e03e4ae5e"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/wired/DESIGN.md": {
+    "mtime": 1777911262.5644546,
+    "hash": "623a2b6f504dee67cf0a226b207ff781"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/wired/README.md": {
+    "mtime": 1777911262.5644546,
+    "hash": "e115c4893f21b25872859a2e239e881f"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/notion/DESIGN.md": {
+    "mtime": 1777911262.5544543,
+    "hash": "7e8cbd46b8dc3998e85ff1f4fb18e732"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/notion/README.md": {
+    "mtime": 1777911262.5544543,
+    "hash": "7a250827042eeaf0788127f75fda732d"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/lovable/DESIGN.md": {
+    "mtime": 1777911262.5504541,
+    "hash": "d33b05a430b8e17189d0a5bff39d3458"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/lovable/README.md": {
+    "mtime": 1777911262.5504541,
+    "hash": "70428eaf813f6ea291d8a96e8de8fe54"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/voltagent/DESIGN.md": {
+    "mtime": 1777911262.5634546,
+    "hash": "542bc26aa7b4d3f27c7727f00eba0dbc"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/voltagent/README.md": {
+    "mtime": 1777911262.5634546,
+    "hash": "ffa5eaad358057156c9bfc5cb1a20463"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/raycast/DESIGN.md": {
+    "mtime": 1777911262.5564544,
+    "hash": "a4772862a06336a8f0c104769f547b62"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/raycast/README.md": {
+    "mtime": 1777911262.5564544,
+    "hash": "2ed4b47e5721db44925c890ce2da35b3"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/spacex/DESIGN.md": {
+    "mtime": 1777911262.5594544,
+    "hash": "d993672015410ea20cf14545b9f3739a"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/spacex/README.md": {
+    "mtime": 1777911262.5594544,
+    "hash": "0a5b07375f5fc6bae0ded78361156c4a"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/mistral.ai/DESIGN.md": {
+    "mtime": 1777911262.5524542,
+    "hash": "b664e367414091035c02b77834cedfa5"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/mistral.ai/README.md": {
+    "mtime": 1777911262.5524542,
+    "hash": "5c4fecfd9deaa99a66398d5b4b073137"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/renault/DESIGN.md": {
+    "mtime": 1777911262.5574543,
+    "hash": "ceda0399fc12c2430887f5359e3e2d1c"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/renault/README.md": {
+    "mtime": 1777911262.5574543,
+    "hash": "43b5bd774c20033b7b5dfe75ee763911"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/ferrari/DESIGN.md": {
+    "mtime": 1777911262.547454,
+    "hash": "325b47c25e3ae29f77450e3091dd3875"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/ferrari/README.md": {
+    "mtime": 1777911262.547454,
+    "hash": "9e36d336c2199f6ef82f1bc66632b3e7"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/starbucks/DESIGN.md": {
+    "mtime": 1777911262.5604544,
+    "hash": "d967823e57e5b8cafd6d98c8fb200cd8"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/starbucks/README.md": {
+    "mtime": 1777911262.5604544,
+    "hash": "c3d6c25f8ccac488fa8accb6b621e666"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/resend/DESIGN.md": {
+    "mtime": 1777911262.5584545,
+    "hash": "35e905d51e3259f69922629375a8a22f"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/resend/README.md": {
+    "mtime": 1777911262.5584545,
+    "hash": "3e242291f812dceb59b91cf304c62651"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/x.ai/DESIGN.md": {
+    "mtime": 1777911262.5644546,
+    "hash": "94a42ac0f26dcefa1bf1e275c395b173"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/x.ai/README.md": {
+    "mtime": 1777911262.5644546,
+    "hash": "05d1a353278bdeaae44f2b40f1949e1b"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/wise/DESIGN.md": {
+    "mtime": 1777911262.5644546,
+    "hash": "7671d5b79e8e454fce36592fa6d28ec2"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/wise/README.md": {
+    "mtime": 1777911262.5644546,
+    "hash": "f9ae4e659b2525b305864233bb55c9c9"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/framer/DESIGN.md": {
+    "mtime": 1777911262.547454,
+    "hash": "6e575bdc5681404a1a6d670c3eddfc2a"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/framer/README.md": {
+    "mtime": 1777911262.547454,
+    "hash": "14e39c0124faf1919dc6638142f9f002"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/pinterest/DESIGN.md": {
+    "mtime": 1777911262.5554543,
+    "hash": "e71b564144b90083e381fdabbbecc2f8"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/pinterest/README.md": {
+    "mtime": 1777911262.5554543,
+    "hash": "784ea5ee77f18a7e146124dbe500ee00"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/bmw-m/DESIGN.md": {
+    "mtime": 1777911262.542454,
+    "hash": "f00091fef5cf5fcb9e75dc2251570c0b"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/bmw-m/README.md": {
+    "mtime": 1777911262.542454,
+    "hash": "f81f58ca644041b17bedfffa55393d65"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/vercel/DESIGN.md": {
+    "mtime": 1777911262.5624545,
+    "hash": "3ade5339d5a47bf38c3fd81c7613dea0"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/vercel/README.md": {
+    "mtime": 1777911262.5624545,
+    "hash": "d8599a2ecbe25db10d8f27763fb3c731"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/claude/DESIGN.md": {
+    "mtime": 1777911262.544454,
+    "hash": "fd29394159d7e9aa6537d5258c3dc82e"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/claude/README.md": {
+    "mtime": 1777911262.544454,
+    "hash": "f0bc7cb614c3b3f1e432891a596c08a7"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/airbnb/DESIGN.md": {
+    "mtime": 1777911262.540454,
+    "hash": "cf3c79aaeadd0cccbf77f3f4ca38c30e"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/airbnb/README.md": {
+    "mtime": 1777911262.540454,
+    "hash": "3793e09870673b182b06e486c24a6bc7"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/elevenlabs/DESIGN.md": {
+    "mtime": 1777911262.5464542,
+    "hash": "1cbb34199dfa0b15726db4a9dd21a384"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/elevenlabs/README.md": {
+    "mtime": 1777911262.5464542,
+    "hash": "fe76d0cd687237c73ae0588559e59034"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/bmw/DESIGN.md": {
+    "mtime": 1777911262.542454,
+    "hash": "2faaae5e78230f46958ad32d0f9d6780"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/bmw/README.md": {
+    "mtime": 1777911262.5434542,
+    "hash": "697b6356054d010e9f4d1383cc00a196"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/opencode.ai/DESIGN.md": {
+    "mtime": 1777911262.5554543,
+    "hash": "50dd898a2921c59971b4589954bca070"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/opencode.ai/README.md": {
+    "mtime": 1777911262.5554543,
+    "hash": "ddaf5dd3e211091466952dfebfceb7db"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/stripe/DESIGN.md": {
+    "mtime": 1777911262.5604544,
+    "hash": "01483e8e20079b9e75c77bff513e967a"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/stripe/README.md": {
+    "mtime": 1777911262.5604544,
+    "hash": "2e3e966deed99295c1aa2a02d5a9dadc"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/spotify/DESIGN.md": {
+    "mtime": 1777911262.5604544,
+    "hash": "ee018c3dc2a653809ebbea22a4fd6a82"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/spotify/README.md": {
+    "mtime": 1777911262.5604544,
+    "hash": "9dad62a136b973944d9a455dae8ddac8"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/mastercard/DESIGN.md": {
+    "mtime": 1777911262.5504541,
+    "hash": "014789f82b259c10607eb3793498b6b5"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/mastercard/README.md": {
+    "mtime": 1777911262.5504541,
+    "hash": "554333a51d7ea205e646bf56369233a9"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/minimax/DESIGN.md": {
+    "mtime": 1777911262.5514543,
+    "hash": "c92df12226201ecfe29a06e0e3badf9d"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/minimax/README.md": {
+    "mtime": 1777911262.5514543,
+    "hash": "01c24b057dc2732a92761d28adb5d705"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/cohere/DESIGN.md": {
+    "mtime": 1777911262.545454,
+    "hash": "6e0ee375826767177a38dee1109a065f"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/cohere/README.md": {
+    "mtime": 1777911262.545454,
+    "hash": "747c39eb5f874d8f432a25649daed7e7"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/uber/DESIGN.md": {
+    "mtime": 1777911262.5624545,
+    "hash": "ad900c2ee0347e7cb774c6dfd800b6a3"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/uber/README.md": {
+    "mtime": 1777911262.5624545,
+    "hash": "842f6cd511c61a68ce25286a398fc1aa"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/warp/DESIGN.md": {
+    "mtime": 1777911262.5634546,
+    "hash": "43cd73d78fad17d8c0abeb5caff8399b"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/warp/README.md": {
+    "mtime": 1777911262.5634546,
+    "hash": "de638f71d14114a443f1bb1faa2fb307"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/ibm/DESIGN.md": {
+    "mtime": 1777911262.5484543,
+    "hash": "97c67ac2c29f836d63a1a9f3b2642b8f"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/ibm/README.md": {
+    "mtime": 1777911262.5484543,
+    "hash": "47d1f9541a02accb130a9cce7b38c02c"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/tesla/DESIGN.md": {
+    "mtime": 1777911262.5614545,
+    "hash": "09f88bf44172b0ca07ec9d964425a518"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/tesla/README.md": {
+    "mtime": 1777911262.5614545,
+    "hash": "e273c9cfb9eef92f288ec2638cd26319"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/posthog/DESIGN.md": {
+    "mtime": 1777911262.5564544,
+    "hash": "822e9095df52624f2840878bdac2f15b"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/posthog/README.md": {
+    "mtime": 1777911262.5564544,
+    "hash": "ef9cb734207e82365e08018bbe92b913"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/kraken/DESIGN.md": {
+    "mtime": 1777911262.5494542,
+    "hash": "e3a163559d3f29d5cf932b9f12ff5767"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/kraken/README.md": {
+    "mtime": 1777911262.5494542,
+    "hash": "733c7a6dea481f4bfbb041a9f83e4680"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/hashicorp/DESIGN.md": {
+    "mtime": 1777911262.5484543,
+    "hash": "2b8474afc23f9dba595291a7cd4845c8"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/hashicorp/README.md": {
+    "mtime": 1777911262.5484543,
+    "hash": "9323263ece813a990e6eea4f720a31a4"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/meta/DESIGN.md": {
+    "mtime": 1777911262.5504541,
+    "hash": "22a1eda90285948ce7fea0b4e9cef24a"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/meta/README.md": {
+    "mtime": 1777911262.5514543,
+    "hash": "4793905a70fbe75ee3ca6e629404f574"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/airtable/DESIGN.md": {
+    "mtime": 1777911262.540454,
+    "hash": "e32fdf1b1a229586ae00e47ab337babb"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/airtable/README.md": {
+    "mtime": 1777911262.541454,
+    "hash": "64743760f489fa159e3556fdbf53b5d9"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/binance/DESIGN.md": {
+    "mtime": 1777911262.541454,
+    "hash": "89b6efa86a3eb7959430156526071d0d"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/binance/README.md": {
+    "mtime": 1777911262.541454,
+    "hash": "69b627ec89e9b02bfd09f4f6fbf5d097"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/intercom/DESIGN.md": {
+    "mtime": 1777911262.5484543,
+    "hash": "3358352d95c44940fc1996dd781d322b"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/intercom/README.md": {
+    "mtime": 1777911262.5494542,
+    "hash": "fa6cfbceea86b1b49e7f235d1a49ba5f"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/replicate/DESIGN.md": {
+    "mtime": 1777911262.5574543,
+    "hash": "cf78feebffb6684e9f455a7c7bd76c31"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/replicate/README.md": {
+    "mtime": 1777911262.5574543,
+    "hash": "099c13fcfa860a0068b1043ca5239988"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/ollama/DESIGN.md": {
+    "mtime": 1777911262.5544543,
+    "hash": "8d4ea6854c1e76782bb5fdb5fbda0664"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/ollama/README.md": {
+    "mtime": 1777911262.5544543,
+    "hash": "6adc22ad962f1bba9c1c93be955178ee"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/clay/DESIGN.md": {
+    "mtime": 1777911262.544454,
+    "hash": "d8952b0377b6f04975ff47f57c2db2d5"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/clay/README.md": {
+    "mtime": 1777911262.544454,
+    "hash": "4a503c9b4948a693c7fa7d88eb479a2f"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/linear.app/DESIGN.md": {
+    "mtime": 1777911262.5494542,
+    "hash": "545f8e8af6ed283f31a216e46951af96"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/linear.app/README.md": {
+    "mtime": 1777911262.5494542,
+    "hash": "b80fa9fd54d3efcbaae7bafd23fbc117"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/bugatti/DESIGN.md": {
+    "mtime": 1777911262.5434542,
+    "hash": "4b6f878f68f82f5c9003a81ff21b7f99"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/bugatti/README.md": {
+    "mtime": 1777911262.5434542,
+    "hash": "205a0c854ad29f400de268b49c21cd59"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/sentry/DESIGN.md": {
+    "mtime": 1777911262.5594544,
+    "hash": "9dd3e14d355a61a24afda2f2c65bc257"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/sentry/README.md": {
+    "mtime": 1777911262.5594544,
+    "hash": "ce21ed069891c4691d904b0f749561b6"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/expo/DESIGN.md": {
+    "mtime": 1777911262.5464542,
+    "hash": "322af92ba650d2aceadc7f6a0f7eda1e"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/expo/README.md": {
+    "mtime": 1777911262.5464542,
+    "hash": "5e045d5b0954c66e35586de1b87fd854"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/figma/DESIGN.md": {
+    "mtime": 1777911262.547454,
+    "hash": "2ad94c84d3638f13dc7f9f7ce04531a5"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/figma/README.md": {
+    "mtime": 1777911262.547454,
+    "hash": "9650b418722f74d30a0b9c9503bc034b"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/playstation/DESIGN.md": {
+    "mtime": 1777911262.5564544,
+    "hash": "269d65aacfbbcc436e818eeb99131861"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/playstation/README.md": {
+    "mtime": 1777911262.5564544,
+    "hash": "1762e1fbb7a0c38509ae61141e4fe1e3"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/apple/DESIGN.md": {
+    "mtime": 1777911262.541454,
+    "hash": "f27d54fa22b41a26cf958b49b247a704"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/apple/README.md": {
+    "mtime": 1777911262.541454,
+    "hash": "cf3ca5a2f724ad5cf2922081edc5f010"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/revolut/DESIGN.md": {
+    "mtime": 1777911262.5584545,
+    "hash": "b53da6c0a780a7bb4183868def980350"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/revolut/README.md": {
+    "mtime": 1777911262.5584545,
+    "hash": "521563965244a2ebde2408791c2f5406"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/runwayml/DESIGN.md": {
+    "mtime": 1777911262.5584545,
+    "hash": "0b68b31bf08d1261735a4aec8a0d9908"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/runwayml/README.md": {
+    "mtime": 1777911262.5584545,
+    "hash": "240a6bc79f49b551754d8e0276858fdd"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/cursor/DESIGN.md": {
+    "mtime": 1777911262.5464542,
+    "hash": "b5f1568339acad3d41c3387759d0aa7d"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/cursor/README.md": {
+    "mtime": 1777911262.5464542,
+    "hash": "3782ed19fb7c971875c6d2701f0a0c8a"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/miro/DESIGN.md": {
+    "mtime": 1777911262.5524542,
+    "hash": "dce56d38c198b45f5a78c6a744e327c9"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/miro/README.md": {
+    "mtime": 1777911262.5524542,
+    "hash": "2b11300d93461c8361be34d5ff014617"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/nvidia/DESIGN.md": {
+    "mtime": 1777911262.5544543,
+    "hash": "0ff51c5d85621fbfb639acd179972cc9"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/nvidia/README.md": {
+    "mtime": 1777911262.5544543,
+    "hash": "e3ed08c871789c3e4c2157870a42504f"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/zapier/DESIGN.md": {
+    "mtime": 1777911262.5644546,
+    "hash": "5964f76e57f10102b7df65b23b1a5541"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/zapier/README.md": {
+    "mtime": 1777911262.5644546,
+    "hash": "acdd8f3678124bfd3ac0a8937e1a98e0"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/mongodb/DESIGN.md": {
+    "mtime": 1777911262.5534544,
+    "hash": "e691dce5fc004fc8219322843f32b7d1"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/mongodb/README.md": {
+    "mtime": 1777911262.5534544,
+    "hash": "8ff71ef77b313f0a1e3f2e33d9d16369"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/vodafone/DESIGN.md": {
+    "mtime": 1777911262.5624545,
+    "hash": "4e17ade4d49036612a1036e425b2d7a6"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/vodafone/README.md": {
+    "mtime": 1777911262.5634546,
+    "hash": "45f406aa2c04be8f28ce30eb2b90abcf"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/together.ai/DESIGN.md": {
+    "mtime": 1777911262.5614545,
+    "hash": "6b01d6b10b02a876241870f07cac23c6"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/together.ai/README.md": {
+    "mtime": 1777911262.5624545,
+    "hash": "a80448695bd6d6a5cc88c5b1ee639d6d"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/coinbase/DESIGN.md": {
+    "mtime": 1777911262.545454,
+    "hash": "a97e99e565b5691e37fcf81910319d06"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/coinbase/README.md": {
+    "mtime": 1777911262.545454,
+    "hash": "ae37d273e3771e4318c0ae69ec660980"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/supabase/DESIGN.md": {
+    "mtime": 1777911262.5604544,
+    "hash": "c9ba6ea806e1b7f818b93b4734e8a325"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/supabase/README.md": {
+    "mtime": 1777911262.5614545,
+    "hash": "e0a6ad9f4d0d438808fa4e0bd928155a"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/webflow/DESIGN.md": {
+    "mtime": 1777911262.5634546,
+    "hash": "0b9a48af8d230bc33a236d381af1f18b"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/webflow/README.md": {
+    "mtime": 1777911262.5634546,
+    "hash": "5273cd86f556d10eb77bad743f1823e3"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/composio/DESIGN.md": {
+    "mtime": 1777911262.5464542,
+    "hash": "5e871c6b452113ef465b5e9a5d634fd3"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/composio/README.md": {
+    "mtime": 1777911262.5464542,
+    "hash": "6088c2d743a0301ab81635e56efc8870"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/mintlify/DESIGN.md": {
+    "mtime": 1777911262.5514543,
+    "hash": "4318102b026d3c312a0bbfc7b63a078d"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/mintlify/README.md": {
+    "mtime": 1777911262.5514543,
+    "hash": "05695d6a95b753f50e940d1ec057084b"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/clickhouse/DESIGN.md": {
+    "mtime": 1777911262.544454,
+    "hash": "c98c045a967b3dfe60669540f6d74948"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/clickhouse/README.md": {
+    "mtime": 1777911262.544454,
+    "hash": "9c26186a163f7ca5ac0dc233083e3de3"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/sanity/DESIGN.md": {
+    "mtime": 1777911262.5594544,
+    "hash": "4087ef89bd355ccf2920a965823f9a6c"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/sanity/README.md": {
+    "mtime": 1777911262.5594544,
+    "hash": "1240f324c6e343636e50aa663101ccd4"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/theverge/DESIGN.md": {
+    "mtime": 1777911262.5614545,
+    "hash": "18b07f34157911e5044a1d388956ce8a"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/theverge/README.md": {
+    "mtime": 1777911262.5614545,
+    "hash": "5de40f5068840020ffdc95c7d3250dbf"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/nike/DESIGN.md": {
+    "mtime": 1777911262.5534544,
+    "hash": "55a9f4f570f1e6c4175bccee72fd7aad"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/nike/README.md": {
+    "mtime": 1777911262.5534544,
+    "hash": "fb00f47f5654c29ba7d58f74724908cc"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/shopify/DESIGN.md": {
+    "mtime": 1777911262.5594544,
+    "hash": "2f4e5df7b183f65efda4cb9b4d0159d6"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/shopify/README.md": {
+    "mtime": 1777911262.5594544,
+    "hash": "0d041ae48184185b83afe7dbe23ac79e"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/cal/DESIGN.md": {
+    "mtime": 1777911262.5434542,
+    "hash": "8cc0b921e11267a286faf3384def6092"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/cal/README.md": {
+    "mtime": 1777911262.5434542,
+    "hash": "3467f551b656ab44d18d9ce6d9fb05cb"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/superhuman/DESIGN.md": {
+    "mtime": 1777911262.5614545,
+    "hash": "f4d3bf0a49c75432a69d22e7c9ff7921"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/superhuman/README.md": {
+    "mtime": 1777911262.5614545,
+    "hash": "f79ecb0db8f4451c9c8ee71a8cde6a45"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/lamborghini/DESIGN.md": {
+    "mtime": 1777911262.5494542,
+    "hash": "240e15c75a899594083f4b37b5741514"
+  },
+  "/home/user_aioc/workspace/skills/awesome-design-md/design-md/lamborghini/README.md": {
+    "mtime": 1777911262.5494542,
+    "hash": "46f293e18568561ff13b10925c0d18c7"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/skill.md": {
+    "mtime": 1777911460.3690112,
+    "hash": "e58d850e63cd9aa3b770180b812cd93b"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/CLAUDE.md": {
+    "mtime": 1777911194.3248842,
+    "hash": "6937ff6dc77ebeb47bc88221b3971947"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/README.md": {
+    "mtime": 1777911194.3248842,
+    "hash": "e4e7d500dc297b9aa9789e582590ed4e"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/skills/ui-ux-design-pro/SKILL.md": {
+    "mtime": 1777911194.404886,
+    "hash": "2a682ce3b87f070c39b8d304f5785007"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/skills/ui-ux-design-pro/cli/saas-senior-test.md": {
+    "mtime": 1777911194.4148862,
+    "hash": "3fd5039fade28f141a02f7534ebdab25"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/skills/ui-ux-design-pro/cli/fintech-senior-test.md": {
+    "mtime": 1777911194.4138863,
+    "hash": "388e5182e4bdaf5cc1957e6d84581118"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/skills/ui-ux-design-pro/cli/saas-test.md": {
+    "mtime": 1777911194.4148862,
+    "hash": "82fcedd8e20dbd2e3287afb01f574a41"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/skills/ui-ux-design-pro/cli/saas-fixed-test.md": {
+    "mtime": 1777911194.4148862,
+    "hash": "82fcedd8e20dbd2e3287afb01f574a41"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/skills/ui-ux-design-pro/cli/fintech-final-test.md": {
+    "mtime": 1777911194.4138863,
+    "hash": "1be5b767e75732357a398a1b90770ced"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/skills/ui-ux-design-pro/cli/fintech-fixed-test.md": {
+    "mtime": 1777911194.4138863,
+    "hash": "d480a5cf3d800ebcd17fa803aadda2c4"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/skills/ui-ux-design-pro/cli/saas-final-test.md": {
+    "mtime": 1777911194.4148862,
+    "hash": "3075d624560ebab462a8e6d9b1d73fe5"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/skills/ui-ux-design-pro/cli/fintech-test.md": {
+    "mtime": 1777911194.4138863,
+    "hash": "d480a5cf3d800ebcd17fa803aadda2c4"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/skills/ui-ux-design-pro/cli/fintech-pro-test.md": {
+    "mtime": 1777911194.4138863,
+    "hash": "a8de6e90d5a986199442617fc45353a3"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/skills/ui-ux-design-pro/cli/README.md": {
+    "mtime": 1777911194.404886,
+    "hash": "943b4657d18a3ca9e2c97adb80feb025"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/skills/ui-ux-design-pro/references/typography.md": {
+    "mtime": 1777911194.4168863,
+    "hash": "4ec84fb8a8e70f2e7eb35e4d4dd66270"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/skills/ui-ux-design-pro/references/spacing-and-layout.md": {
+    "mtime": 1777911194.4158862,
+    "hash": "fb023d5bf86855f5277b23c7f8fae1e2"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/skills/ui-ux-design-pro/references/color-system.md": {
+    "mtime": 1777911194.4158862,
+    "hash": "bacddf77da850a2939502339c50302d9"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/skills/ui-ux-design-pro/references/real-world-patterns.md": {
+    "mtime": 1777911194.4158862,
+    "hash": "952b762ff4a8d945fc667265a864d681"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/skills/ui-ux-design-pro/references/accessibility.md": {
+    "mtime": 1777911194.4148862,
+    "hash": "31ec7c3198811e2a217146fe6da806fc"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/skills/ui-ux-design-pro/references/component-patterns.md": {
+    "mtime": 1777911194.4158862,
+    "hash": "206c8f594b9650cffa122128d13520d2"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/skills/ui-ux-design-pro/references/depth-and-elevation.md": {
+    "mtime": 1777911194.4158862,
+    "hash": "763185d2a35948ae5f6b88f1f80d1b40"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/skills/ui-ux-design-pro/references/cognitive-principles.md": {
+    "mtime": 1777911194.4148862,
+    "hash": "00f3fe2f6d581cbfee8d1ad625ce9543"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/skills/ui-ux-design-pro/references/design-directions.md": {
+    "mtime": 1777911194.4158862,
+    "hash": "f9ff5aed26241550a0053e29201978e5"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/skills/ui-ux-design-pro/references/animation-and-motion.md": {
+    "mtime": 1777911194.4148862,
+    "hash": "3aabe3870b77ec0502857d87bde3628b"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/skills/ui-ux-design-pro/references/icon-patterns.md": {
+    "mtime": 1777911194.4158862,
+    "hash": "4cd697d4968a4a3acd9f61bea379950e"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/skills/ui-ux-design-pro/references/critique-protocol.md": {
+    "mtime": 1777911194.4158862,
+    "hash": "414959d94dffd95b01996d97b78a1ddf"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/examples/example-02/example-02.html": {
+    "mtime": 1777911194.3768854,
+    "hash": "beb0e1c173ef49646c01580799f471ee"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/examples/example-03/Example-03.html": {
+    "mtime": 1777911194.3768854,
+    "hash": "70efc794be2f851be161fe5f92a00d89"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/examples/example-01/example-01.html": {
+    "mtime": 1777911194.3448846,
+    "hash": "cd91c03c478e813bc691227094055f24"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/output/audit_pass.md": {
+    "mtime": 1777911194.3818855,
+    "hash": "eb21f15f0f822803c42ae4b99cf2f66f"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/output/audit_fail.md": {
+    "mtime": 1777911194.3818855,
+    "hash": "dc7b38492c438f9b8ec7004f6d53ee09"
+  },
+  "/home/user_aioc/workspace/skills/agent-browser/skill.md": {
+    "mtime": 1777596635.4349298,
+    "hash": "f1ea12ebb8cac5cac2391d3ecf619192"
+  },
+  "/home/user_aioc/workspace/skills/agent-browser/instructions.md": {
+    "mtime": 1777593587.9462252,
+    "hash": "07509c4823022b14536fb0a115ac7a88"
+  },
+  "/home/user_aioc/workspace/skills/agent-browser/examples.md": {
+    "mtime": 1777591910.4193382,
+    "hash": "ca4001a2e92f0cbdd94d2681e344b1d8"
+  },
+  "/home/user_aioc/workspace/docs/range_variants_demo.md": {
+    "mtime": 1777686626.5291097,
+    "hash": "31cd06eb87e43bedd47a913425656efd"
+  },
+  "/home/user_aioc/workspace/docs/trade_model.md": {
+    "mtime": 1777677543.916731,
+    "hash": "3aa3b26477be6276715062144823e55a"
+  },
+  "/home/user_aioc/workspace/share/opencode/map_all_small.md": {
+    "mtime": 1777820508.160047,
+    "hash": "a89ef57dc8258e7970fc44e6f2ccbe46"
+  },
+  "/home/user_aioc/workspace/share/opencode/map_all.md": {
+    "mtime": 1777820508.151047,
+    "hash": "9d3f12964820be83dff438483392f31c"
+  },
+  "/home/user_aioc/workspace/share/opencode/map_links.md": {
+    "mtime": 1777820508.1850479,
+    "hash": "df14a7e1587f4bd976b2ed9c5a3a5e41"
+  },
+  "/home/user_aioc/workspace/share/opencode/map_tree.md": {
+    "mtime": 1777820508.2160485,
+    "hash": "057d99740521c85bf411e1900ecb498b"
+  },
+  "/home/user_aioc/workspace/share/opencode/map_mermaid.md": {
+    "mtime": 1777820508.2050483,
+    "hash": "ff0ee220a484ba2de0052053e60f210d"
+  },
+  "/home/user_aioc/workspace/share/opencode/map_update.md": {
+    "mtime": 1777820508.2310488,
+    "hash": "cb84152539b4a6273525ebb35f422596"
+  },
+  "/home/user_aioc/workspace/share/opencode/map_json.md": {
+    "mtime": 1777820508.1770475,
+    "hash": "f2273d63603091180f719b85f7da4d52"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/README.md": {
+    "mtime": 1777820503.090927,
+    "hash": "719b7c5fcf21ffef90efef9b2e332b5b"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/tradingview/index.md": {
+    "mtime": 1777554381.7826183,
+    "hash": "7a58d7fde239ac38d8683314cc5de6a3"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/tradingview/terminal/index.md": {
+    "mtime": 1777554593.6793952,
+    "hash": "48936068db70ed403e31e026663d5716"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/tradingview/tutorials/how-to.md": {
+    "mtime": 1777554319.4192069,
+    "hash": "c27a5fb626a980daf6b6fd1eb52c0eaa"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/tradingview/widgets/index.md": {
+    "mtime": 1777554427.522652,
+    "hash": "51ea543aa14b7218c3c29d5f6f05913d"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/tradingview/widgets/charts/index.md": {
+    "mtime": 1777554446.9950914,
+    "hash": "1674bb90a133bde14cf8ebcdf41f0e2c"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/tradingview/widgets/symbol-details/index.md": {
+    "mtime": 1777554494.4561617,
+    "hash": "05037514677027eaac898843e6792b8b"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/tradingview/widgets/news/index.md": {
+    "mtime": 1777554499.0962663,
+    "hash": "b768e226a48a6a322d8af38184f51ff1"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/tradingview/widgets/watchlists/index.md": {
+    "mtime": 1777554457.264323,
+    "hash": "998ea6884571db7f1d70bc9d58676438"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/tradingview/widgets/implementation/index.md": {
+    "mtime": 1777554515.727641,
+    "hash": "2dfa20860a28fe48eb7ace0b63864538"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/tradingview/widgets/screeners/index.md": {
+    "mtime": 1777554527.9289157,
+    "hash": "4b7e2ed5a131d4a78ecaf679b1b9f664"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/tradingview/widgets/tickers/index.md": {
+    "mtime": 1777554464.6884906,
+    "hash": "9ba5919d3bcdfdca40db23d34a6d5e8e"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/tradingview/widgets/heatmaps/index.md": {
+    "mtime": 1777554477.8557875,
+    "hash": "b60dc4cbe975471131fe6053a8fa7916"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/tradingview/widgets/calendars/index.md": {
+    "mtime": 1777554504.0293775,
+    "hash": "4048a74c862138784826e379e24f5bbb"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/tradingview/api/IChartApi.md": {
+    "mtime": 1777554330.2514522,
+    "hash": "6809b94f3aabb49e03f542150a13848f"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/tradingview/plugins/intro.md": {
+    "mtime": 1777554301.8918095,
+    "hash": "1d915123867e1a1c5f7410752e161069"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/tradingview/lightweight/chart-types/4-custom-horizontal-scale.md": {
+    "mtime": 1777488648.962431,
+    "hash": "b7c8bca8a1aca75bc79559d49332e754"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/tradingview/lightweight/chart-types/5-multi-pane-chart.md": {
+    "mtime": 1777488649.2874384,
+    "hash": "4a0601b5e3e72feb7495ab79bfd49f29"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/tradingview/lightweight/chart-types/3-options-price-chart.md": {
+    "mtime": 1777488640.743243,
+    "hash": "fcffb26b9d4ae11ee0a081a3303e5946"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/tradingview/lightweight/chart-types/1-standard-time-chart.md": {
+    "mtime": 1777488621.8658113,
+    "hash": "b7772902e036d463a5d3a4cf85450fcc"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/tradingview/lightweight/chart-types/2-yield-curve-chart.md": {
+    "mtime": 1777488628.9589736,
+    "hash": "ec49486de7dafed3868fe06a70709ebf"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/tradingview/lightweight/connecting-data/data-formats.md": {
+    "mtime": 1777488737.0764446,
+    "hash": "42b50f2eec14fe02edf6ecaf4d160b33"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/tradingview/lightweight/conditions/dark-theme.md": {
+    "mtime": 1777488710.9408476,
+    "hash": "3bc29d87b73bc72072027e4eda8380e0"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/tradingview/lightweight/conditions/multiple-series.md": {
+    "mtime": 1777488729.207265,
+    "hash": "8d02c34ff2829166757ad61fbdacdec6"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/tradingview/lightweight/conditions/light-theme.md": {
+    "mtime": 1777488713.4459047,
+    "hash": "66d2c57e9009deaec09f79bfc9911950"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/tradingview/lightweight/conditions/overlay-price-scale.md": {
+    "mtime": 1777488732.364337,
+    "hash": "d3a3741bfd6ef7ccb454d8facdd821fa"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/tradingview/lightweight/conditions/autosize-responsive.md": {
+    "mtime": 1777488715.109943,
+    "hash": "cf9427fbd9f09b855f1c00b9a0f52614"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/tradingview/lightweight/conditions/locale-i18n.md": {
+    "mtime": 1777488736.788438,
+    "hash": "1d23b66ca68fac3e0d250c8529df3827"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/tradingview/lightweight/conditions/fixed-size.md": {
+    "mtime": 1777488721.8010957,
+    "hash": "e54d16417cea8137a7bf786bc2be4800"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/tradingview/lightweight/series-types/histogram.md": {
+    "mtime": 1777488691.3173993,
+    "hash": "2aadf927e70971da2190902669e30cc4"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/tradingview/lightweight/series-types/candlestick.md": {
+    "mtime": 1777488673.507992,
+    "hash": "79ba7176ce7a14d4c436772d496fb466"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/tradingview/lightweight/series-types/baseline.md": {
+    "mtime": 1777488696.0515075,
+    "hash": "728cb438fb2f4127e497b117c9ac5a38"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/tradingview/lightweight/series-types/area.md": {
+    "mtime": 1777488680.7301571,
+    "hash": "033c158c7ac7f57a815f8ec6a96239cd"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/tradingview/lightweight/series-types/line.md": {
+    "mtime": 1777488678.1630986,
+    "hash": "1dd64fc4e4a83da465b170a178bdcc6f"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/tradingview/lightweight/series-types/bar.md": {
+    "mtime": 1777488685.014255,
+    "hash": "53a1476b0fabda43dff06ae051a3c16d"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/tradingview/lightweight/series-types/custom-plugin.md": {
+    "mtime": 1777488696.3045132,
+    "hash": "a9b8fb0abe3fce2940d326d7a8cf52ee"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/tradingview/advanced/index.md": {
+    "mtime": 1777554586.6112363,
+    "hash": "2a9879a401f8dc07087994dce6f05ef2"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/tradingview/advanced/realtime.md": {
+    "mtime": 1777554355.0060127,
+    "hash": "af5c55f4717c2e583ca032e3261463c2"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/tradingview/advanced/performance.md": {
+    "mtime": 1777554341.8187141,
+    "hash": "3265232d73808304ecd531d8124c529e"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/tradingview/resources/github-issues.md": {
+    "mtime": 1777554601.3755684,
+    "hash": "5a3b90c979e37c4f51d9d2d88d0e2f03"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/tradingview/resources/external-links.md": {
+    "mtime": 1777554609.588753,
+    "hash": "2e5ff9abdf04f6e47df1e70061faa6b1"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/4-guides/git-versioning.md": {
+    "mtime": 1777813107.0901654,
+    "hash": "ba10637a6add1e7f966774b322a33f0d"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/1-exchanges/ccxt-bitget.md": {
+    "mtime": 1777813073.619405,
+    "hash": "e3211a38a63ab6558b510224f13def73"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/1-exchanges/ccxt-skills/README.md": {
+    "mtime": 1777813090.4147866,
+    "hash": "00abb2b64f84d3ae04348155e20d383e"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/3-projects/demo-charts-ascii.md": {
+    "mtime": 1777821417.348194,
+    "hash": "7af4e03ca7def5dba6810eeb41a66950"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/3-projects/graphs-candle.md": {
+    "mtime": 1777820492.9906874,
+    "hash": "09b9391818ff8da3a9b4654a5deb4efa"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/3-projects/fundament-rf.md": {
+    "mtime": 1777820492.9876873,
+    "hash": "bed904eab61fbea4fabb2dd6347f7fea"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/2-tools/as-table.md": {
+    "mtime": 1777814143.3360074,
+    "hash": "4dd27ad73c0b0357df04ade965029fc0"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/2-tools/pygal.md": {
+    "mtime": 1777853473.9527907,
+    "hash": "5a8d2f55c46de6a98d7c81ae544901c3"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/2-tools/charts.md": {
+    "mtime": 1777853448.3780894,
+    "hash": "c8176c896051dceac02a879e4a1f9027"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/2-tools/agent-browser.md": {
+    "mtime": 1777813324.3230972,
+    "hash": "c94d6c7544c9677e346ce2214f08ceb4"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/2-tools/flask.md": {
+    "mtime": 1777821417.3451939,
+    "hash": "829c0252f3cb55e8ac1ce6e4aecaeb0b"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/2-tools/rich.md": {
+    "mtime": 1777853461.2734437,
+    "hash": "6f03b2751a25ed009fc7501d55fe8265"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/2-tools/charts/asciichart.md": {
+    "mtime": 1777817058.2126927,
+    "hash": "8774d3036ecc204b26b32730e5568bcc"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/2-tools/charts/termcharts.md": {
+    "mtime": 1777853200.5950325,
+    "hash": "7c2037d768238fbc7276ac1e67fab52b"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/2-tools/charts/termgraph.md": {
+    "mtime": 1777817065.692865,
+    "hash": "78d46cfc7f782df528518b6a68f8e0d4"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/2-tools/charts/plotext.md": {
+    "mtime": 1777853420.243313,
+    "hash": "d2223f7ea156033836775a15fd43190f"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/2-tools/charts/asciimatics.md": {
+    "mtime": 1777853359.3766136,
+    "hash": "c4a6a5c7a2465b2630d1a5e1f26dc7d7"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/2-tools/charts/plotille.md": {
+    "mtime": 1777853280.4023645,
+    "hash": "00d7cb3eee7e52a53b0472664cb87a6d"
+  },
+  "/home/user_aioc/workspace/share/knowledge-base/tasks/kb-search.md": {
+    "mtime": 1777813859.8700247,
+    "hash": "92b5fa99b6321e904ab79c7df33b55dc"
+  },
+  "/home/user_aioc/workspace/fundament_rf/CARD_STRUCTURE.md": {
+    "mtime": 1777255714.5180929,
+    "hash": "23e614956a00d814a5c5ea035c36a375"
+  },
+  "/home/user_aioc/workspace/fundament_rf/structure.md": {
+    "mtime": 1777326393.736747,
+    "hash": "eabdfbe89d485a709ba040126d0c28fc"
+  },
+  "/home/user_aioc/workspace/fundament_rf/README.md": {
+    "mtime": 1776988958.2345042,
+    "hash": "cd728fdbe3e40de447b3abc3e08fb9cd"
+  },
+  "/home/user_aioc/workspace/fundament_rf/PROCESSOR_1D_PLAN.md": {
+    "mtime": 1777408763.4089756,
+    "hash": "867b132211e4d856d8d51c69c7a4d29d"
+  },
+  "/home/user_aioc/workspace/fundament_rf/templates/metrics.html": {
+    "mtime": 1777408903.2430828,
+    "hash": "1963f3dcef4532c6deead9f8559deb8a"
+  },
+  "/home/user_aioc/workspace/fundament_rf/templates/index.html": {
+    "mtime": 1777412693.9797883,
+    "hash": "af59914947273529a89f73db5e6623ec"
+  },
+  "/home/user_aioc/workspace/fundament_rf/templates/card.html": {
+    "mtime": 1777426671.829132,
+    "hash": "18d7f408a4935fc69eca8a2a6c4520dc"
+  },
+  "/home/user_aioc/workspace/fundament_rf/templates/dashboard.html": {
+    "mtime": 1777673383.2836058,
+    "hash": "306d7bf17c09a081b13f3c4703888835"
+  },
+  "/home/user_aioc/workspace/fundament_rf/templates/range_variants_demo.html": {
+    "mtime": 1777694278.976325,
+    "hash": "dc9b2f5bf1150ac82e2a6e4152b0e1b7"
+  },
+  "/home/user_aioc/workspace/fundament_rf/templates/base.html": {
+    "mtime": 1777665700.5960279,
+    "hash": "5b6f3efbcbedd2d36172104db7f65be3"
+  },
+  "/home/user_aioc/workspace/fundament_rf/templates/macros.html": {
+    "mtime": 1777342697.4444206,
+    "hash": "79658fd03f34b1cb3d565dca0ca2959f"
+  },
+  "/home/user_aioc/workspace/fundament_rf/templates/graphics/all.html": {
+    "mtime": 1777340090.986199,
+    "hash": "68a1c765ecf52720413516c8d253937e"
+  },
+  "/home/user_aioc/workspace/fundament_rf/static/graphics/simple_svg.html": {
+    "mtime": 1776977924.9734428,
+    "hash": "5dc397fbcfdda111251e2b67bcd047f1"
+  },
+  "/home/user_aioc/workspace/fundament_rf/static/graphics/simple_canvas.html": {
+    "mtime": 1776977932.2506068,
+    "hash": "d84f4d5f92890a1261c3533bb06d1e59"
+  },
+  "/home/user_aioc/workspace/graphs_candle/PROJECT_PLAN.md": {
+    "mtime": 1776861640.1988082,
+    "hash": "77805a231f6d1ca64fb3a10f6be228c9"
+  },
+  "/home/user_aioc/workspace/graphs_candle/README.md": {
+    "mtime": 1776803428.8463502,
+    "hash": "0f5db10afad581cb11aa456da4ec8b30"
+  },
+  "/home/user_aioc/workspace/graphs_candle/requirements.txt": {
+    "mtime": 1776803482.4975705,
+    "hash": "15e1dc8287d8d50811e5b218e6623348"
+  },
+  "/home/user_aioc/workspace/graphs_candle/templates/index.html": {
+    "mtime": 1776809055.531861,
+    "hash": "e0d983fec12c642aed5867b0acd25fe8"
+  },
+  "/home/user_aioc/workspace/graphs_candle/templates/alt.html": {
+    "mtime": 1776855582.8392556,
+    "hash": "299aa00c56c1e7867d2d1af84b289d2e"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/index.html": {
+    "mtime": 1777889104.2767954,
+    "hash": "c31741e85de19882a64b8b45fd4d2a78"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/INCIDENT_REPORT.md": {
+    "mtime": 1777602289.0448601,
+    "hash": "53c3c5a14316b2aab0f736c41a49adec"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/agent-browser-report.md": {
+    "mtime": 1777598674.9124107,
+    "hash": "70e96e275864a1d64c676559becf18c1"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/README.md": {
+    "mtime": 1777638085.0561872,
+    "hash": "49eb7834b79a7b3c05f2a43e3eb81e48"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widget-fix-report.md": {
+    "mtime": 1777599546.1512198,
+    "hash": "c2fedb4cf4b42d5f3f35b7522a98a087"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/browser-tools-comparison-report.md": {
+    "mtime": 1777599041.4157672,
+    "hash": "8291d4edf0e5c45f86504a2159dfd615"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/CHANGELOG.md": {
+    "mtime": 1777889108.725895,
+    "hash": "36f8b94079e9740a4198f0ef3d4f995b"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets/charts/index.html": {
+    "mtime": 1777593447.868049,
+    "hash": "5c6a8a5d11a8b1f4231cb74817bd9120"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets/charts/mini-chart/index.html": {
+    "mtime": 1777647460.2483182,
+    "hash": "aec704e858d2ade3af23ee65361dbc60"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets/charts/advanced-chart/index.html": {
+    "mtime": 1777599326.9202504,
+    "hash": "76fa7ddcd5de15978340f236561270eb"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets/charts/symbol-overview/index.html": {
+    "mtime": 1777647460.2483182,
+    "hash": "2e64574008115e3955e38e972cb36571"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets/symbol-details/index.html": {
+    "mtime": 1777593447.9090497,
+    "hash": "41f43092148ee2ab9d47a768624783f3"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets/symbol-details/fundamental-data/index.html": {
+    "mtime": 1777647460.2523181,
+    "hash": "188a3f00d45baf8b9ff32b42ce406a2b"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets/symbol-details/symbol-info/index.html": {
+    "mtime": 1777647460.2523181,
+    "hash": "933cb71fb2c1b9003d5321287d1dee4d"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets/symbol-details/technical-analysis/index.html": {
+    "mtime": 1777647460.2523181,
+    "hash": "2e5db262e0129424af5bc2bc40bfd9f8"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets/symbol-details/company-profile/index.html": {
+    "mtime": 1777647460.2523181,
+    "hash": "894c0de1329f06eafe13f94c31c053a9"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets/news/index.html": {
+    "mtime": 1777593447.8930495,
+    "hash": "d1100bf923bf91dc648d01772eb67c3f"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets/news/top-stories/index.html": {
+    "mtime": 1777647460.2513182,
+    "hash": "172343785e2b98ab1a49459aee074747"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets/watchlists/index.html": {
+    "mtime": 1777593447.9450507,
+    "hash": "0d60570f27c25a992fb01554d6500b16"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets/watchlists/stock-market/index.html": {
+    "mtime": 1777647460.2563183,
+    "hash": "fe83571615da58fd05bd195252f54203"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets/watchlists/market-summary/index.html": {
+    "mtime": 1777647460.2563183,
+    "hash": "86c69b68b532fc2ce85ce943fb7d582a"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets/watchlists/market-data/index.html": {
+    "mtime": 1777647460.2563183,
+    "hash": "d7c6e9737db9e80d9104fd11ec1bb867"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets/watchlists/market-overview/index.html": {
+    "mtime": 1777647460.2563183,
+    "hash": "e4978fbc385689681135ce6d4ad94a49"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets/economics/index.html": {
+    "mtime": 1777647460.2573183,
+    "hash": "bea0df46633fe50dbfd0c89e1ecb9526"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets/economics/economic-map/index.html": {
+    "mtime": 1777647460.2483182,
+    "hash": "e3065b8b423fff3ff25ef793f11f9f69"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets/screeners/index.html": {
+    "mtime": 1777593447.9010496,
+    "hash": "529874a3b60484526e3aaafbe94132e7"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets/screeners/screener/index.html": {
+    "mtime": 1777647460.2523181,
+    "hash": "3938afb4009827322685c6e762973cd7"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets/screeners/crypto-market/index.html": {
+    "mtime": 1777647460.2523181,
+    "hash": "8d7e88eba52cabe6a150ad132faf9b30"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets/tickers/index.html": {
+    "mtime": 1777593447.9140499,
+    "hash": "aa6a304baccebeef0e637cd028c8eee1"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets/tickers/single-ticker/index.html": {
+    "mtime": 1777647460.2533183,
+    "hash": "907671003db70d6fbe43074df5f1a2c0"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets/tickers/ticker-tag/index.html": {
+    "mtime": 1777647460.2553182,
+    "hash": "b866db92cfe63d564de8198109efa7f1"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets/tickers/ticker-tape/index.html": {
+    "mtime": 1777647460.2553182,
+    "hash": "aef80ffb8e56e9251703b8e2dd5b44d8"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets/tickers/ticker/index.html": {
+    "mtime": 1777647460.2563183,
+    "hash": "660e35b22a8bcecfce7f89387529f01d"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets/heatmaps/index.html": {
+    "mtime": 1777593447.8850493,
+    "hash": "2f0013da9619f34300c5b15f5209119d"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets/heatmaps/etf-heatmap/index.html": {
+    "mtime": 1777647460.2493181,
+    "hash": "318a84bc0561981aecb00d8fc9db4f41"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets/heatmaps/forex-cross-rates/index.html": {
+    "mtime": 1777647460.2503183,
+    "hash": "a385cdd1c94109f0195c374b7ba7b7e6"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets/heatmaps/stock-heatmap/index.html": {
+    "mtime": 1777647460.2503183,
+    "hash": "b3f7b21591eb2a2ecc38622241865064"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets/heatmaps/forex-heatmap/index.html": {
+    "mtime": 1777647460.2503183,
+    "hash": "4c00bacb854e8485aa03630fb76e81ba"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets/heatmaps/crypto-heatmap/index.html": {
+    "mtime": 1777647460.2493181,
+    "hash": "e7d643509467e728a9db66438194866d"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets/calendars/index.html": {
+    "mtime": 1777593447.8600488,
+    "hash": "f8178bbd00399c7422f9b4a1665c890f"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets/calendars/economic-calendar/index.html": {
+    "mtime": 1777647460.2483182,
+    "hash": "27d3797b6ea40a85388abf014a7c0fe5"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/standalone-widgets/03-stock-heatmap.html": {
+    "mtime": 1777888839.3878906,
+    "hash": "737953ff228dc18dad1496ae0b9a425b"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/standalone-widgets/01-advanced-chart.html": {
+    "mtime": 1777888827.976637,
+    "hash": "486b1cae28924f0e67a6de303bfe692d"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/standalone-widgets/07-technical-analysis.html": {
+    "mtime": 1777888860.8523679,
+    "hash": "7faf19a18129cf6d9f73094e0d455a3c"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/standalone-widgets/02-symbol-overview.html": {
+    "mtime": 1777888833.5747614,
+    "hash": "b2278bb0acff946d24466bb6f83cf84b"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/standalone-widgets/08-economic-calendar.html": {
+    "mtime": 1777888864.268444,
+    "hash": "8e64428f878894416bc033f884d8ffb3"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/standalone-widgets/10-screener.html": {
+    "mtime": 1777888876.3647132,
+    "hash": "3bbdd04cb4e99b4a9082ca244daeb04c"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/standalone-widgets/09-forex-heatmap.html": {
+    "mtime": 1777888870.782589,
+    "hash": "914720cdd5abe3a69d305f09566dfb37"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/standalone-widgets/05-market-overview.html": {
+    "mtime": 1777888853.036194,
+    "hash": "31567296c7dc57dc9cc19e7a9bf7c54a"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/standalone-widgets/06-ticker-tape.html": {
+    "mtime": 1777888856.8382788,
+    "hash": "07fc917e4d70d83b1f603ff2e73936ee"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/standalone-widgets/04-crypto-heatmap.html": {
+    "mtime": 1777888848.7940998,
+    "hash": "ef08b5e221c41290b83343744c89038e"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/chart-types/README.md": {
+    "mtime": 1777512836.3787787,
+    "hash": "16d20e05f8d3573fbf49265422561fa3"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/chart-types/4-custom-horizontal-scale/index.html": {
+    "mtime": 1777508215.017958,
+    "hash": "388e2f7eb455ab73caef7957546ef40d"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/chart-types/4-custom-horizontal-scale/full.html": {
+    "mtime": 1777512234.4652488,
+    "hash": "a71643de16a7a4c611d7ad7ab3181dcc"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/chart-types/1-standard-time-chart/index.html": {
+    "mtime": 1777504858.2491345,
+    "hash": "84ece7fdbf182c60892f1af8a62bace6"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/chart-types/1-standard-time-chart/full.html": {
+    "mtime": 1777512008.1091716,
+    "hash": "52be4d7694d9804beaa58c644722a7cf"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/chart-types/5-multi-pane-chart/index.html": {
+    "mtime": 1777504951.261272,
+    "hash": "3216efb5326ac616d9c32a4b3ce5e676"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/chart-types/5-multi-pane-chart/full.html": {
+    "mtime": 1777512073.304633,
+    "hash": "64b1508b349eef79c952a39140448cd4"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/chart-types/3-options-price-chart/index.html": {
+    "mtime": 1777504951.1912704,
+    "hash": "3731e033e3050c4d7e7980115aacc865"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/chart-types/3-options-price-chart/full.html": {
+    "mtime": 1777512073.043627,
+    "hash": "c43846e7204f71ae44968509fe4649e8"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/chart-types/2-yield-curve-chart/index.html": {
+    "mtime": 1777504937.5499573,
+    "hash": "27b29e5e760311e64beec73c614cb6e6"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/chart-types/2-yield-curve-chart/full.html": {
+    "mtime": 1777512073.0236266,
+    "hash": "2d0906d75cd20466de411b158c124312"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/share/knowledge-base/tradingview/index.md": {
+    "mtime": 1777589089.6850898,
+    "hash": "7a58d7fde239ac38d8683314cc5de6a3"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/share/knowledge-base/tradingview/terminal/index.md": {
+    "mtime": 1777589089.68709,
+    "hash": "48936068db70ed403e31e026663d5716"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/share/knowledge-base/tradingview/tutorials/how-to.md": {
+    "mtime": 1777589089.68709,
+    "hash": "c27a5fb626a980daf6b6fd1eb52c0eaa"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/share/knowledge-base/tradingview/widgets/index.md": {
+    "mtime": 1777589089.6890898,
+    "hash": "51ea543aa14b7218c3c29d5f6f05913d"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/share/knowledge-base/tradingview/widgets/charts/index.md": {
+    "mtime": 1777589089.6880898,
+    "hash": "1674bb90a133bde14cf8ebcdf41f0e2c"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/share/knowledge-base/tradingview/widgets/symbol-details/index.md": {
+    "mtime": 1777589089.6880898,
+    "hash": "05037514677027eaac898843e6792b8b"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/share/knowledge-base/tradingview/widgets/news/index.md": {
+    "mtime": 1777589089.6890898,
+    "hash": "b768e226a48a6a322d8af38184f51ff1"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/share/knowledge-base/tradingview/widgets/watchlists/index.md": {
+    "mtime": 1777589089.6880898,
+    "hash": "998ea6884571db7f1d70bc9d58676438"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/share/knowledge-base/tradingview/widgets/implementation/index.md": {
+    "mtime": 1777589089.6890898,
+    "hash": "2dfa20860a28fe48eb7ace0b63864538"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/share/knowledge-base/tradingview/widgets/screeners/index.md": {
+    "mtime": 1777589089.6880898,
+    "hash": "4b7e2ed5a131d4a78ecaf679b1b9f664"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/share/knowledge-base/tradingview/widgets/tickers/index.md": {
+    "mtime": 1777589089.6880898,
+    "hash": "9ba5919d3bcdfdca40db23d34a6d5e8e"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/share/knowledge-base/tradingview/widgets/heatmaps/index.md": {
+    "mtime": 1777589089.6880898,
+    "hash": "b60dc4cbe975471131fe6053a8fa7916"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/share/knowledge-base/tradingview/widgets/calendars/index.md": {
+    "mtime": 1777589089.6890898,
+    "hash": "4048a74c862138784826e379e24f5bbb"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/share/knowledge-base/tradingview/api/IChartApi.md": {
+    "mtime": 1777589089.6850898,
+    "hash": "6809b94f3aabb49e03f542150a13848f"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/share/knowledge-base/tradingview/plugins/intro.md": {
+    "mtime": 1777589089.68709,
+    "hash": "1d915123867e1a1c5f7410752e161069"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/share/knowledge-base/tradingview/lightweight/chart-types/4-custom-horizontal-scale.md": {
+    "mtime": 1777589089.6850898,
+    "hash": "b7c8bca8a1aca75bc79559d49332e754"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/share/knowledge-base/tradingview/lightweight/chart-types/5-multi-pane-chart.md": {
+    "mtime": 1777589089.6850898,
+    "hash": "4a0601b5e3e72feb7495ab79bfd49f29"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/share/knowledge-base/tradingview/lightweight/chart-types/3-options-price-chart.md": {
+    "mtime": 1777589089.6850898,
+    "hash": "fcffb26b9d4ae11ee0a081a3303e5946"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/share/knowledge-base/tradingview/lightweight/chart-types/1-standard-time-chart.md": {
+    "mtime": 1777589089.6850898,
+    "hash": "b7772902e036d463a5d3a4cf85450fcc"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/share/knowledge-base/tradingview/lightweight/chart-types/2-yield-curve-chart.md": {
+    "mtime": 1777589089.6850898,
+    "hash": "ec49486de7dafed3868fe06a70709ebf"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/share/knowledge-base/tradingview/lightweight/connecting-data/data-formats.md": {
+    "mtime": 1777589089.68709,
+    "hash": "42b50f2eec14fe02edf6ecaf4d160b33"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/share/knowledge-base/tradingview/lightweight/conditions/dark-theme.md": {
+    "mtime": 1777589089.6860898,
+    "hash": "3bc29d87b73bc72072027e4eda8380e0"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/share/knowledge-base/tradingview/lightweight/conditions/multiple-series.md": {
+    "mtime": 1777589089.6860898,
+    "hash": "8d02c34ff2829166757ad61fbdacdec6"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/share/knowledge-base/tradingview/lightweight/conditions/light-theme.md": {
+    "mtime": 1777589089.6860898,
+    "hash": "66d2c57e9009deaec09f79bfc9911950"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/share/knowledge-base/tradingview/lightweight/conditions/overlay-price-scale.md": {
+    "mtime": 1777589089.68709,
+    "hash": "d3a3741bfd6ef7ccb454d8facdd821fa"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/share/knowledge-base/tradingview/lightweight/conditions/autosize-responsive.md": {
+    "mtime": 1777589089.6860898,
+    "hash": "cf9427fbd9f09b855f1c00b9a0f52614"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/share/knowledge-base/tradingview/lightweight/conditions/locale-i18n.md": {
+    "mtime": 1777589089.68709,
+    "hash": "1d23b66ca68fac3e0d250c8529df3827"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/share/knowledge-base/tradingview/lightweight/conditions/fixed-size.md": {
+    "mtime": 1777589089.6860898,
+    "hash": "e54d16417cea8137a7bf786bc2be4800"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/share/knowledge-base/tradingview/lightweight/series-types/histogram.md": {
+    "mtime": 1777589089.6860898,
+    "hash": "2aadf927e70971da2190902669e30cc4"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/share/knowledge-base/tradingview/lightweight/series-types/candlestick.md": {
+    "mtime": 1777589089.6850898,
+    "hash": "79ba7176ce7a14d4c436772d496fb466"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/share/knowledge-base/tradingview/lightweight/series-types/baseline.md": {
+    "mtime": 1777589089.6860898,
+    "hash": "728cb438fb2f4127e497b117c9ac5a38"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/share/knowledge-base/tradingview/lightweight/series-types/area.md": {
+    "mtime": 1777589089.6860898,
+    "hash": "033c158c7ac7f57a815f8ec6a96239cd"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/share/knowledge-base/tradingview/lightweight/series-types/line.md": {
+    "mtime": 1777589089.6860898,
+    "hash": "1dd64fc4e4a83da465b170a178bdcc6f"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/share/knowledge-base/tradingview/lightweight/series-types/bar.md": {
+    "mtime": 1777589089.6860898,
+    "hash": "53a1476b0fabda43dff06ae051a3c16d"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/share/knowledge-base/tradingview/lightweight/series-types/custom-plugin.md": {
+    "mtime": 1777589089.6860898,
+    "hash": "a9b8fb0abe3fce2940d326d7a8cf52ee"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/share/knowledge-base/tradingview/advanced/index.md": {
+    "mtime": 1777589089.6840897,
+    "hash": "2a9879a401f8dc07087994dce6f05ef2"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/share/knowledge-base/tradingview/advanced/realtime.md": {
+    "mtime": 1777589089.6840897,
+    "hash": "af5c55f4717c2e583ca032e3261463c2"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/share/knowledge-base/tradingview/advanced/performance.md": {
+    "mtime": 1777589089.6840897,
+    "hash": "3265232d73808304ecd531d8124c529e"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/share/knowledge-base/tradingview/resources/github-issues.md": {
+    "mtime": 1777589089.68709,
+    "hash": "5a3b90c979e37c4f51d9d2d88d0e2f03"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/share/knowledge-base/tradingview/resources/external-links.md": {
+    "mtime": 1777589089.68709,
+    "hash": "2e5ff9abdf04f6e47df1e70061faa6b1"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/lightpanda-snapshots/symbol-overview.txt": {
+    "mtime": 1777599008.288014,
+    "hash": "cea4cca15eb6e7aff26ed03e4c148fff"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/conditions/README.md": {
+    "mtime": 1777512836.3837788,
+    "hash": "63c9f3129e49cd0b9e4c7d2a26e14267"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/conditions/locale-i18n/index.html": {
+    "mtime": 1777505037.5462515,
+    "hash": "559400964ab881b4a12ca27a965d509a"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/conditions/locale-i18n/full.html": {
+    "mtime": 1777512505.5243382,
+    "hash": "c4f80c374675619b47d80af1627d83fb"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/conditions/fixed-size/index.html": {
+    "mtime": 1777592391.9731524,
+    "hash": "cab6689db090361196149ca44b633fb5"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/conditions/fixed-size/full.html": {
+    "mtime": 1777512394.3338394,
+    "hash": "bcf72c9bc46ae37f196cb67d20231b73"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/conditions/multiple-series/index.html": {
+    "mtime": 1777505020.3868582,
+    "hash": "c03157dee005f80780eddbdb921b246e"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/conditions/multiple-series/full.html": {
+    "mtime": 1777512447.6500373,
+    "hash": "be46901edafefdb01ae321f34bb75f83"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/conditions/dark-theme/index.html": {
+    "mtime": 1777504983.6560156,
+    "hash": "e8e6205319ae187b69f95e9f83ad3afe"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/conditions/dark-theme/full.html": {
+    "mtime": 1777512289.0444744,
+    "hash": "d2cff3bd8eabcc95cf9f1ede33f059b7"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/conditions/overlay-price-scale/index.html": {
+    "mtime": 1777505037.4882503,
+    "hash": "0008299147c6429395e5f7511c5c840b"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/conditions/overlay-price-scale/full.html": {
+    "mtime": 1777512505.4113357,
+    "hash": "cf8e71a8a96cbeb54980ccc76ebfac4b"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/conditions/light-theme/index.html": {
+    "mtime": 1777504998.0803466,
+    "hash": "9ba87594980bafffff0a42d2bb013baa"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/conditions/light-theme/full.html": {
+    "mtime": 1777512339.3386037,
+    "hash": "b879ae041760d7d31c7845eb856a1c9e"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/conditions/autosize-responsive/index.html": {
+    "mtime": 1777505009.7356138,
+    "hash": "fb703f058ff03e05bcfc15115c102ec1"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/conditions/autosize-responsive/full.html": {
+    "mtime": 1777512505.473337,
+    "hash": "eba4638831740b0579e10135e9ab6439"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets-full/news.html": {
+    "mtime": 1777647460.246318,
+    "hash": "f75b261397e073b4c4ea3bfc02c09971"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets-full/tickers.html": {
+    "mtime": 1777647460.244318,
+    "hash": "76342c9601fce449c6a473f6c38254be"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets-full/forex-heatmap.html": {
+    "mtime": 1777647460.2453182,
+    "hash": "a871fc42bb7f0a4ecd46c05202cb2d11"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets-full/crypto-market.html": {
+    "mtime": 1777647460.2453182,
+    "hash": "7ce09f22ab37385944b5e26fb585761e"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets-full/technical-analysis.html": {
+    "mtime": 1777647460.2453182,
+    "hash": "99ef6d47ca52fe1a47e1818ac9cfd8fd"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets-full/market-overview.html": {
+    "mtime": 1777647460.243318,
+    "hash": "fd44b9726650e7f0bb88226d7243a555"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets-full/watchlists.html": {
+    "mtime": 1777647460.247318,
+    "hash": "089e5dad6054693f052e51bda02e02f6"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets-full/ticker-tape.html": {
+    "mtime": 1777647460.244318,
+    "hash": "aef80ffb8e56e9251703b8e2dd5b44d8"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets-full/stock-heatmap.html": {
+    "mtime": 1777647460.244318,
+    "hash": "db4be7d9b74d32f9388b63370a7e48f7"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets-full/crypto-heatmap.html": {
+    "mtime": 1777647460.244318,
+    "hash": "e96388aba75a3a70a131b9ac61e3edd2"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets-full/screeners.html": {
+    "mtime": 1777647460.247318,
+    "hash": "3f013a71a3a0a16eb908e297a64a7478"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets-full/test-comparison.html": {
+    "mtime": 1777599411.4891682,
+    "hash": "4914736134cda6e34c94f7ffd70677ac"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets-full/screener.html": {
+    "mtime": 1777647460.2453182,
+    "hash": "265312a9ffe5feb8e4884b408625d795"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets-full/symbol-info.html": {
+    "mtime": 1777647460.2453182,
+    "hash": "aefe7c35ee52ef80e5184cafc8988b8a"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets-full/symbol-overview.html": {
+    "mtime": 1777647460.243318,
+    "hash": "c7e1bef5e2c1d2a006b37fc6adcb3511"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets-full/company-profile.html": {
+    "mtime": 1777647460.2453182,
+    "hash": "a489e630a870651fd8a75bfd5a44c8d5"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets-full/forex-cross-rates.html": {
+    "mtime": 1777647460.2453182,
+    "hash": "3a4e37344df98b25c2f4f505b215d6d4"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets-full/advanced-chart.html": {
+    "mtime": 1777647460.242318,
+    "hash": "b03016395bf8932b5d138dd9140922eb"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets-full/heatmaps.html": {
+    "mtime": 1777647460.247318,
+    "hash": "6d25b0f2f9366f0be34c862437720416"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets-full/calendars.html": {
+    "mtime": 1777647460.246318,
+    "hash": "8aed696c5104a259834e198d07d23986"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets-full/economics.html": {
+    "mtime": 1777647460.247318,
+    "hash": "bea0df46633fe50dbfd0c89e1ecb9526"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets-full/charts.html": {
+    "mtime": 1777647460.247318,
+    "hash": "c1d31f8ed10ed542a28d48207db3e0c8"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets-full/mini-chart.html": {
+    "mtime": 1777647460.242318,
+    "hash": "49b26191a4f0afdcbfbc1d9a55f39e9d"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets-full/single-ticker.html": {
+    "mtime": 1777647460.244318,
+    "hash": "f4eaf6fa72f8c6d298d6f1156229d164"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets-full/market-data.html": {
+    "mtime": 1777647460.243318,
+    "hash": "c7aa6fec2fa5e6fd647b708442f72574"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets-full/economic-map.html": {
+    "mtime": 1777647460.247318,
+    "hash": "e3065b8b423fff3ff25ef793f11f9f69"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets-full/stock-market.html": {
+    "mtime": 1777647460.243318,
+    "hash": "e610afa54057ee3adb7579e8184566d4"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets-full/fundamental-data.html": {
+    "mtime": 1777647460.2453182,
+    "hash": "acc6671ee5497b7215cd112906eea2a8"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets-full/economic-calendar.html": {
+    "mtime": 1777647460.246318,
+    "hash": "c8a94c4bdb86197b7d420dbc97de00f7"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets-full/market-summary.html": {
+    "mtime": 1777647460.243318,
+    "hash": "cd158ce5ef3e877a5c19ba95d358e000"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets-full/symbol-details.html": {
+    "mtime": 1777647460.246318,
+    "hash": "926f84fae17b4d715e31f4de6207cb06"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets-full/etf-heatmap.html": {
+    "mtime": 1777647460.244318,
+    "hash": "62ae6abd9541c47b4075340a0fc5fe0e"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widgets-full/top-stories.html": {
+    "mtime": 1777647460.246318,
+    "hash": "5e740156ca242d6e6ef7b74acb5020fe"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/series-types/README.md": {
+    "mtime": 1777512836.3807788,
+    "hash": "b51ac341fe242855044801591d232014"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/series-types/bar/index.html": {
+    "mtime": 1777504900.5291066,
+    "hash": "065087d6e8ada253ec1cefecb8cc6285"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/series-types/bar/full.html": {
+    "mtime": 1777511845.2935047,
+    "hash": "681e17952c9dbbb2a4969b99a6511394"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/series-types/candlestick/index.html": {
+    "mtime": 1777504867.7273526,
+    "hash": "98ffe01f9210e57fff7e6dbda3b858e3"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/series-types/candlestick/full.html": {
+    "mtime": 1777511740.1061347,
+    "hash": "7b953a1ba814093c225c75a0219bf52b"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/series-types/line/index.html": {
+    "mtime": 1777504877.576579,
+    "hash": "8270d6d1474e95a67690e65647c17c10"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/series-types/line/full.html": {
+    "mtime": 1777511794.0393498,
+    "hash": "0b71f89b3a7eb97ab55ab0c74b92bdc1"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/series-types/area/index.html": {
+    "mtime": 1777504887.8008142,
+    "hash": "bc19f9c3f1964ff561ac9b7f86692086"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/series-types/area/full.html": {
+    "mtime": 1777511845.2855046,
+    "hash": "d301ed12562910aaf0f1bd2ae3f29ffe"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/series-types/histogram/index.html": {
+    "mtime": 1777504900.5321069,
+    "hash": "c300540ef41b3c043799d44b5d55d587"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/series-types/histogram/full.html": {
+    "mtime": 1777511845.2875044,
+    "hash": "d7e3e198c89738fad39e28a6d38b8134"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/series-types/baseline/index.html": {
+    "mtime": 1777504900.5341067,
+    "hash": "b4cea6acb10a0b6b5abb8db7017ed2fe"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/series-types/baseline/full.html": {
+    "mtime": 1777511695.3521264,
+    "hash": "c664dd1b33f3a809f74500180c4d3a15"
+  },
+  "/home/user_aioc/workspace/transcript/README.md": {
+    "mtime": 1776957860.5130773,
+    "hash": "1535cac81e0f130a6199e7e747525df3"
+  },
+  "/home/user_aioc/workspace/tasks/kilocode.md": {
+    "mtime": 1776977300.4593563,
+    "hash": "9458c13822d07b1fe29d1d22c0d0b429"
+  },
+  "/home/user_aioc/workspace/tasks/help_ai.md": {
+    "mtime": 1776859981.621793,
+    "hash": "d2b969bae1de72e313f779ee4252403a"
+  },
+  "/home/user_aioc/workspace/tools/README.md": {
+    "mtime": 1777591857.8611577,
+    "hash": "1010ab45d79ef028968e65bab0a14ed5"
+  },
+  "/home/user_aioc/workspace/tools/agent-browser/INTEGRATION.md": {
+    "mtime": 1777593553.0854347,
+    "hash": "730df05656a89cec56b230b5562ec08f"
+  },
+  "/home/user_aioc/workspace/tools/agent-browser/README.md": {
+    "mtime": 1777591860.0792084,
+    "hash": "9f1ed8210923377a348c0b6e43855348"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/public/assets/hero.png": {
+    "mtime": 1777911194.403886,
+    "hash": "544f83d1d3157603e59978f8475c13a8"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/examples/example-02/Agent-flow.png": {
+    "mtime": 1777911194.3758852,
+    "hash": "8c83a4c50861ca2ee18fab801e1f330c"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/examples/example-03/Example-03.png": {
+    "mtime": 1777911194.3818855,
+    "hash": "9ed4ff191f3d01543e7521950cb40442"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/examples/example-01/screenshots/without_skill.png": {
+    "mtime": 1777911194.3548849,
+    "hash": "af53aa139e206b1f85640f84f744c28a"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/examples/example-01/screenshots/with_skill.png": {
+    "mtime": 1777911194.3498847,
+    "hash": "0f53513d842c072b6d8d7f972b16fd7a"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/examples/example-01/assets/footer-03.png": {
+    "mtime": 1777911194.325884,
+    "hash": "e39003b178a421848b909fbcb6d48803"
+  },
+  "/home/user_aioc/workspace/skills/ui-ux-design-pro/examples/example-01/assets/mobile.jpeg": {
+    "mtime": 1777911194.3448846,
+    "hash": "b46b92b6380edb5e692dfa2a368a678a"
+  },
+  "/home/user_aioc/workspace/share/screenshots/screenshot-1777600415697.png": {
+    "mtime": 1777601498.102035,
+    "hash": "38f1e6650c424d16cf9c17b2961570a0"
+  },
+  "/home/user_aioc/workspace/share/screenshots/screenshot-1777600348845.png": {
+    "mtime": 1777601498.1010349,
+    "hash": "433588c39e0cba1781b14cc975c2a09f"
+  },
+  "/home/user_aioc/workspace/share/screenshots/screenshot-1777599720563.png": {
+    "mtime": 1777601498.1010349,
+    "hash": "1a45fe77e53602bd38e8dd79f568335b"
+  },
+  "/home/user_aioc/workspace/share/screenshots/screenshot-1777598244273.png": {
+    "mtime": 1777601498.0980349,
+    "hash": "babd3de06886f9de306d149a95f22baf"
+  },
+  "/home/user_aioc/workspace/share/screenshots/screenshot-1777599982275.png": {
+    "mtime": 1777601498.1010349,
+    "hash": "493b6068c1da25534e39c1fad2ced845"
+  },
+  "/home/user_aioc/workspace/share/screenshots/screenshot-1777599498033.png": {
+    "mtime": 1777601498.100035,
+    "hash": "b56a9b80a0656bf7422d1d3c1801e386"
+  },
+  "/home/user_aioc/workspace/share/screenshots/screenshot-1777599335259.png": {
+    "mtime": 1777601498.0990348,
+    "hash": "2875b1c48f40d392e855e3c3212f4588"
+  },
+  "/home/user_aioc/workspace/share/screenshots/screenshot-1777599428310.png": {
+    "mtime": 1777601498.100035,
+    "hash": "a8108cfcebd96f2329d18baddaece087"
+  },
+  "/home/user_aioc/workspace/share/screenshots/screenshot-1777598241829.png": {
+    "mtime": 1777601498.0980349,
+    "hash": "c1f87dab1dd532c3816bac28c4dc012c"
+  },
+  "/home/user_aioc/workspace/share/screenshots/screenshot-1777600355389.png": {
+    "mtime": 1777601498.102035,
+    "hash": "433588c39e0cba1781b14cc975c2a09f"
+  },
+  "/home/user_aioc/workspace/share/screenshots/screenshot-1777598214958.png": {
+    "mtime": 1777601498.097035,
+    "hash": "d681e01adee87bd1d1d1a6effbfc57db"
+  },
+  "/home/user_aioc/workspace/share/screenshots/screenshot-1777599312363.png": {
+    "mtime": 1777601498.0990348,
+    "hash": "a8108cfcebd96f2329d18baddaece087"
+  },
+  "/home/user_aioc/workspace/share/screenshots/screenshot-1777599384225.png": {
+    "mtime": 1777601498.100035,
+    "hash": "a8108cfcebd96f2329d18baddaece087"
+  },
+  "/home/user_aioc/workspace/share/screenshots/screenshot-1777598202656.png": {
+    "mtime": 1777601498.097035,
+    "hash": "a8108cfcebd96f2329d18baddaece087"
+  },
+  "/home/user_aioc/workspace/share/screenshots/screenshot-1777600308127.png": {
+    "mtime": 1777601498.1010349,
+    "hash": "b56a9b80a0656bf7422d1d3c1801e386"
+  },
+  "/home/user_aioc/workspace/share/screenshots/screenshot-1777600366042.png": {
+    "mtime": 1777601498.102035,
+    "hash": "c41fb5bed2f5ce4a630fdb1b050dc325"
+  },
+  "/home/user_aioc/workspace/share/screenshots/screenshot-1777598194081.png": {
+    "mtime": 1777601498.0960348,
+    "hash": "0cbcc9c85f8631e878397ae7bc0754bb"
+  },
+  "/home/user_aioc/workspace/share/screenshots/screenshot-1777599372043.png": {
+    "mtime": 1777601498.0990348,
+    "hash": "da306ec67186fdda480c8726a015624d"
+  },
+  "/home/user_aioc/workspace/share/screenshots/screenshot-1777599517087.png": {
+    "mtime": 1777601498.100035,
+    "hash": "1c5c1c90de7ca713509bd6ac3c845a08"
+  },
+  "/home/user_aioc/workspace/share/screenshots/tradingview-demos/screenshot-1777600415697.png": {
+    "mtime": 1777602986.5665972,
+    "hash": "38f1e6650c424d16cf9c17b2961570a0"
+  },
+  "/home/user_aioc/workspace/share/screenshots/tradingview-demos/screenshot-1777600348845.png": {
+    "mtime": 1777602986.5665972,
+    "hash": "433588c39e0cba1781b14cc975c2a09f"
+  },
+  "/home/user_aioc/workspace/share/screenshots/tradingview-demos/screenshot-1777599720563.png": {
+    "mtime": 1777602986.5655973,
+    "hash": "1a45fe77e53602bd38e8dd79f568335b"
+  },
+  "/home/user_aioc/workspace/share/screenshots/tradingview-demos/screenshot-1777598244273.png": {
+    "mtime": 1777602986.5655973,
+    "hash": "babd3de06886f9de306d149a95f22baf"
+  },
+  "/home/user_aioc/workspace/share/screenshots/tradingview-demos/screenshot-1777599982275.png": {
+    "mtime": 1777602986.5655973,
+    "hash": "493b6068c1da25534e39c1fad2ced845"
+  },
+  "/home/user_aioc/workspace/share/screenshots/tradingview-demos/screenshot-1777601939116.png": {
+    "mtime": 1777602986.5675974,
+    "hash": "d345e3dd02fd0dea6fadc3b0f1b98263"
+  },
+  "/home/user_aioc/workspace/share/screenshots/tradingview-demos/screenshot-1777599498033.png": {
+    "mtime": 1777602986.5655973,
+    "hash": "b56a9b80a0656bf7422d1d3c1801e386"
+  },
+  "/home/user_aioc/workspace/share/screenshots/tradingview-demos/screenshot-1777599335259.png": {
+    "mtime": 1777602986.5655973,
+    "hash": "2875b1c48f40d392e855e3c3212f4588"
+  },
+  "/home/user_aioc/workspace/share/screenshots/tradingview-demos/screenshot-1777599428310.png": {
+    "mtime": 1777602986.5655973,
+    "hash": "a8108cfcebd96f2329d18baddaece087"
+  },
+  "/home/user_aioc/workspace/share/screenshots/tradingview-demos/screenshot-1777598241829.png": {
+    "mtime": 1777602986.5645971,
+    "hash": "c1f87dab1dd532c3816bac28c4dc012c"
+  },
+  "/home/user_aioc/workspace/share/screenshots/tradingview-demos/screenshot-1777600355389.png": {
+    "mtime": 1777602986.5665972,
+    "hash": "433588c39e0cba1781b14cc975c2a09f"
+  },
+  "/home/user_aioc/workspace/share/screenshots/tradingview-demos/widget-full.png": {
+    "mtime": 1777602986.5675974,
+    "hash": "ee5d8719e0e1abb8bb7f35a8ea7aa142"
+  },
+  "/home/user_aioc/workspace/share/screenshots/tradingview-demos/screenshot-1777601699010.png": {
+    "mtime": 1777602986.5675974,
+    "hash": "88f618f3e966b2ddcf9191639a8ebb5a"
+  },
+  "/home/user_aioc/workspace/share/screenshots/tradingview-demos/screenshot-1777598214958.png": {
+    "mtime": 1777602986.5645971,
+    "hash": "d681e01adee87bd1d1d1a6effbfc57db"
+  },
+  "/home/user_aioc/workspace/share/screenshots/tradingview-demos/screenshot-1777599312363.png": {
+    "mtime": 1777602986.5655973,
+    "hash": "a8108cfcebd96f2329d18baddaece087"
+  },
+  "/home/user_aioc/workspace/share/screenshots/tradingview-demos/screenshot-1777599384225.png": {
+    "mtime": 1777602986.5655973,
+    "hash": "a8108cfcebd96f2329d18baddaece087"
+  },
+  "/home/user_aioc/workspace/share/screenshots/tradingview-demos/screenshot-1777598202656.png": {
+    "mtime": 1777602986.5645971,
+    "hash": "a8108cfcebd96f2329d18baddaece087"
+  },
+  "/home/user_aioc/workspace/share/screenshots/tradingview-demos/screenshot-1777600308127.png": {
+    "mtime": 1777602986.5665972,
+    "hash": "b56a9b80a0656bf7422d1d3c1801e386"
+  },
+  "/home/user_aioc/workspace/share/screenshots/tradingview-demos/screenshot-1777600366042.png": {
+    "mtime": 1777602986.5665972,
+    "hash": "c41fb5bed2f5ce4a630fdb1b050dc325"
+  },
+  "/home/user_aioc/workspace/share/screenshots/tradingview-demos/screenshot-1777598194081.png": {
+    "mtime": 1777602986.5645971,
+    "hash": "0cbcc9c85f8631e878397ae7bc0754bb"
+  },
+  "/home/user_aioc/workspace/share/screenshots/tradingview-demos/screenshot-1777599372043.png": {
+    "mtime": 1777602986.5655973,
+    "hash": "da306ec67186fdda480c8726a015624d"
+  },
+  "/home/user_aioc/workspace/share/screenshots/tradingview-demos/main-gallery.png": {
+    "mtime": 1777602986.5645971,
+    "hash": "46d47cb6a1f44f323e6a8b83abaa525f"
+  },
+  "/home/user_aioc/workspace/share/screenshots/tradingview-demos/screenshot-1777599517087.png": {
+    "mtime": 1777602986.5655973,
+    "hash": "1c5c1c90de7ca713509bd6ac3c845a08"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/gallery/00-full-page.png": {
+    "mtime": 1777640140.9743898,
+    "hash": "3bd0d524c4cbde9b6a3075572fddfb3f"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/gallery/v3-gallery.png": {
+    "mtime": 1777644730.360217,
+    "hash": "c9782e2a2829a09fa003db07d3521037"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/gallery/01-top.png": {
+    "mtime": 1777640143.4344451,
+    "hash": "ffaf3640d407c0bc32e5c4a6f66b3354"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/market-data.png": {
+    "mtime": 1777643186.5238419,
+    "hash": "1eee1e60ffae3566cb43b943d6a4493b"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/forex-heatmap-v31.png": {
+    "mtime": 1777645173.9260526,
+    "hash": "8405d6fc8d8b48c521650563fafee507"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/forex-heatmap-v31-long.png": {
+    "mtime": 1777645444.8569517,
+    "hash": "8405d6fc8d8b48c521650563fafee507"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/symbol-details.png": {
+    "mtime": 1777643313.6064467,
+    "hash": "adf1797451a50666e4c88f55e56e25a7"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/single-ticker-v31.png": {
+    "mtime": 1777645158.6387134,
+    "hash": "8405d6fc8d8b48c521650563fafee507"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/news.png": {
+    "mtime": 1777643237.5208805,
+    "hash": "17030bb84cfd6aa6190a3c1ffa358d50"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/market-summary-viewport.png": {
+    "mtime": 1777640827.584831,
+    "hash": "160869305430ca7a6abaf4bcdc531a75"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/economic-calendar-v31-long.png": {
+    "mtime": 1777645477.8157704,
+    "hash": "8405d6fc8d8b48c521650563fafee507"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/screener.png": {
+    "mtime": 1777643250.5901482,
+    "hash": "f1d2ffe068eec5c9ee532cd185b5e869"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/stock-heatmap-viewport.png": {
+    "mtime": 1777640810.154439,
+    "hash": "c555118621a103a30c2c54cf368afb75"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/top-stories.png": {
+    "mtime": 1777643390.0080369,
+    "hash": "17030bb84cfd6aa6190a3c1ffa358d50"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/crypto-heatmap-v31.png": {
+    "mtime": 1777645128.443043,
+    "hash": "8405d6fc8d8b48c521650563fafee507"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/watchlists.png": {
+    "mtime": 1777643402.5642996,
+    "hash": "9fc64af1c8316b34685365081d6de416"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/symbol-overview.png": {
+    "mtime": 1777643339.707988,
+    "hash": "43e17f701f22c4a01789ea3b5ac2de35"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/charts.png": {
+    "mtime": 1777643034.014539,
+    "hash": "71b943ab8469170a4e43f129bbfd47e5"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/crypto-heatmap.png": {
+    "mtime": 1777644443.7108793,
+    "hash": "89fc03277cc4072175def184eac4129d"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/economic-calendar.png": {
+    "mtime": 1777644502.7791836,
+    "hash": "ceffb4bdd7453895d84a6ab74ea00fb1"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/advanced-chart-v31-final.png": {
+    "mtime": 1777645538.4872675,
+    "hash": "8405d6fc8d8b48c521650563fafee507"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/stock-heatmap.png": {
+    "mtime": 1777643288.5409286,
+    "hash": "01529acd0e569cbb17d95db1cababf74"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/ticker-tape.png": {
+    "mtime": 1777643365.0105147,
+    "hash": "e3c3f23b605ea22396c0a327b8f0a975"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/mini-chart.png": {
+    "mtime": 1777644400.316922,
+    "hash": "b41956fba53da38b05e1755d640f06d2"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/mini-chart-v31.png": {
+    "mtime": 1777645098.788385,
+    "hash": "64b1689148167d6d79cdd2cfc435a720"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/economic-map.png": {
+    "mtime": 1777644414.7412403,
+    "hash": "d147b376608ea74874febf1e9d7f376e"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/advanced-chart.png": {
+    "mtime": 1777643005.7999039,
+    "hash": "22f2fa40d1c0ac96f9b0765e08f926cc"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/forex-heatmap.png": {
+    "mtime": 1777644488.0258577,
+    "hash": "9a70875a99dcb82a8bfa3aadfbc2270d"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/stock-market.png": {
+    "mtime": 1777644473.223531,
+    "hash": "af6c55bcc6a03d6e7d6ccd468247e318"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/forex-cross-rates.png": {
+    "mtime": 1777643136.3748302,
+    "hash": "d917bb29abe1c57c6fb976c695a9679a"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/economic-calendar-v31.png": {
+    "mtime": 1777645188.987424,
+    "hash": "8405d6fc8d8b48c521650563fafee507"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/etf-heatmap.png": {
+    "mtime": 1777643123.8355613,
+    "hash": "cc0f022528af49d3587de7cce581b4e0"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/symbol-info.png": {
+    "mtime": 1777643326.0857053,
+    "hash": "adf1797451a50666e4c88f55e56e25a7"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/calendars.png": {
+    "mtime": 1777643018.6661935,
+    "hash": "74b2c2eb9b7c8256985ce1b2c02402f3"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/crypto-heatmap-v31-long.png": {
+    "mtime": 1777645344.6404343,
+    "hash": "8405d6fc8d8b48c521650563fafee507"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/market-summary.png": {
+    "mtime": 1777643211.8303561,
+    "hash": "abd465a3b0a572cbd6bff3878c4b20b8"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/advanced-chart-v31.png": {
+    "mtime": 1777645084.2150614,
+    "hash": "8405d6fc8d8b48c521650563fafee507"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/stock-heatmap-v31.png": {
+    "mtime": 1777645203.8758137,
+    "hash": "8405d6fc8d8b48c521650563fafee507"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/fundamental-data.png": {
+    "mtime": 1777643161.2543309,
+    "hash": "adf1797451a50666e4c88f55e56e25a7"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/single-ticker-v31-long.png": {
+    "mtime": 1777645412.2931385,
+    "hash": "8405d6fc8d8b48c521650563fafee507"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/market-overview.png": {
+    "mtime": 1777643199.287101,
+    "hash": "483f458a12807a69f4d11f549a5c44df"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/economics.png": {
+    "mtime": 1777644429.1725585,
+    "hash": "d147b376608ea74874febf1e9d7f376e"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/single-ticker.png": {
+    "mtime": 1777644458.1641984,
+    "hash": "97157396949dd39abfe6a64c30458d6d"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/stock-market-v31-long.png": {
+    "mtime": 1777645377.6392682,
+    "hash": "8405d6fc8d8b48c521650563fafee507"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/economic-map-v31.png": {
+    "mtime": 1777645113.4957113,
+    "hash": "d147b376608ea74874febf1e9d7f376e"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/market-overview-v31.png": {
+    "mtime": 1777645218.6311984,
+    "hash": "8405d6fc8d8b48c521650563fafee507"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/screeners.png": {
+    "mtime": 1777643263.5114133,
+    "hash": "cf8807b54316f7f6f10ab3bb164d6a45"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/advanced-chart-v31-long.png": {
+    "mtime": 1777645312.072606,
+    "hash": "8405d6fc8d8b48c521650563fafee507"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/technical-analysis.png": {
+    "mtime": 1777643352.353251,
+    "hash": "adf1797451a50666e4c88f55e56e25a7"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/tickers.png": {
+    "mtime": 1777643377.287771,
+    "hash": "e3249dc079872b3a1eae7cce0b30671e"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/company-profile.png": {
+    "mtime": 1777643046.5578215,
+    "hash": "adf1797451a50666e4c88f55e56e25a7"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/stock-market-v31.png": {
+    "mtime": 1777645143.7403827,
+    "hash": "8405d6fc8d8b48c521650563fafee507"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/crypto-market.png": {
+    "mtime": 1777643072.2333994,
+    "hash": "67dab50b4dafa60d60883d8ff1985873"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/advanced-chart-v31-scroll.png": {
+    "mtime": 1777645588.0094802,
+    "hash": "8405d6fc8d8b48c521650563fafee507"
+  },
+  "/home/user_aioc/workspace/screenshots/tradingview-demos/agent-browser/widgets-full/heatmaps.png": {
+    "mtime": 1777643173.8895862,
+    "hash": "1ed47c10a672832ad08fc9d46240909d"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/agent-browser-snapshots/screenshot-1777598244273.png": {
+    "mtime": 1777598648.1117973,
+    "hash": "babd3de06886f9de306d149a95f22baf"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/agent-browser-snapshots/screenshot-1777598241829.png": {
+    "mtime": 1777598648.1117973,
+    "hash": "c1f87dab1dd532c3816bac28c4dc012c"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/agent-browser-snapshots/screenshot-1777598214958.png": {
+    "mtime": 1777598648.1117973,
+    "hash": "d681e01adee87bd1d1d1a6effbfc57db"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/agent-browser-snapshots/screenshot-1777598202656.png": {
+    "mtime": 1777598648.1107972,
+    "hash": "a8108cfcebd96f2329d18baddaece087"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/agent-browser-snapshots/screenshot-1777598194081.png": {
+    "mtime": 1777598648.1107972,
+    "hash": "0cbcc9c85f8631e878397ae7bc0754bb"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widget-fix-snapshots/screenshot-1777599498033.png": {
+    "mtime": 1777599604.7975483,
+    "hash": "b56a9b80a0656bf7422d1d3c1801e386"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/widget-fix-snapshots/screenshot-1777599517087.png": {
+    "mtime": 1777599604.8005483,
+    "hash": "1c5c1c90de7ca713509bd6ac3c845a08"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/playwright-snapshots/widget-full.png": {
+    "mtime": 1777598985.1484873,
+    "hash": "ee5d8719e0e1abb8bb7f35a8ea7aa142"
+  },
+  "/home/user_aioc/workspace/tradingview-demos/playwright-snapshots/main-gallery.png": {
+    "mtime": 1777598983.3564467,
+    "hash": "46d47cb6a1f44f323e6a8b83abaa525f"
+  }
+}
