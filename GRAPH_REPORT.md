@@ -1,7 +1,7 @@
 # Graph Report - workspace  (2026-05-04)
 
 ## Corpus Check
-- 57 files · ~904,880 words
+- 57 files · ~904,927 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
@@ -70,91 +70,91 @@
 
 ## Communities (38 total, 11 thin omitted)
 
-### Community 0 - "Community 0"
+### Community 0 - charts
 Cohesion: 0.06
 Nodes (38): create_candlestick_chart(), Candlestick chart visualization using Plotly., Create an interactive candlestick chart with pattern markers.          Args:, create_combined_chart(), Combined chart visualization using Plotly., Create a combined chart with candlesticks, patterns, and P&L.          Args:, Charts module for visualization., create_pnl_chart() (+30 more)
 
-### Community 1 - "Community 1"
+### Community 1 - storage.py
 Cohesion: 0.11
 Nodes (4): get_metrics_storage(), get_storage(), JSONStorage, MetricsStorage
 
-### Community 2 - "Community 2"
+### Community 2 - bitget_checker
 Cohesion: 0.11
 Nodes (5): BitgetAPIClient, main(), OrderData, Данные ордера с формулами PnL как в fundament_rf, TelegramOrderProcessor
 
-### Community 3 - "Community 3"
+### Community 3 - routes
 Cohesion: 0.09
 Nodes (16): _arc_path(), donut_chart(), _empty_donut(), get_mini_color(), get_roe_color(), heatmap_mini_cells(), kpi_card(), kpi_row() (+8 more)
 
-### Community 4 - "Community 4"
+### Community 4 - ui-ux-design-pro
 Cohesion: 0.14
 Nodes (19): auditCommand(), auditFile(), extractFont(), extractPrimaryColor(), extractStyleName(), generateArchitecturalPalette(), generateEnhancedMarkdown(), generateSystemCommand() (+11 more)
 
-### Community 5 - "Community 5"
+### Community 5 - routes
 Cohesion: 0.11
 Nodes (13): batch_process(), _build_chart_data(), _calculate_day(), _calculate_ranges(), _calculate_summary(), _fetch_candles(), _fetch_with_retry(), _force_object() (+5 more)
 
-### Community 6 - "Community 6"
+### Community 6 - infographics
 Cohesion: 0.12
 Nodes (3): CalendarHeatmap, DashboardCharts, EquityAnalyzer
 
-### Community 7 - "Community 7"
+### Community 7 - generators
 Cohesion: 0.21
 Nodes (15): generate(), plot(), plot_multi(), enrich_summary(), legend(), load_data(), sparkline(), generate() (+7 more)
 
-### Community 8 - "Community 8"
+### Community 8 - routes
 Cohesion: 0.18
 Nodes (16): all_charts(), calc_deviation(), chart(), _get_1m_price(), _get_current_price(), _get_daily_price(), _get_storage(), _parse_date() (+8 more)
 
-### Community 9 - "Community 9"
+### Community 9 - data
 Cohesion: 0.12
 Nodes (10): MarketDataFetcher, Market data fetcher using CCXT (Bitget)., Fetches market data from Bitget using CCXT., Get available trading symbols., Fetch OHLCV candlestick data.                  Args:             symbol: Trading, Get trading summary for a symbol., generate_test_candles(), Generate test data when API is unavailable. (+2 more)
 
-### Community 12 - "Community 12"
+### Community 12 - transcript_pipeline.py
 Cohesion: 0.44
 Nodes (11): build_markdown(), download_subtitles(), fetch_playlist_entries(), get_title(), main(), markdown_front_matter(), process_playlist(), process_single_video() (+3 more)
 
-### Community 13 - "Community 13"
+### Community 13 - routes
 Cohesion: 0.24
 Nodes (4): FundObj, create_from_emoji(), create_object(), parse_emoji_data()
 
-### Community 14 - "Community 14"
+### Community 14 - flask
 Cohesion: 0.56
 Nodes (9): cmd_restart(), cmd_start(), cmd_status(), cmd_stop(), handler(), is_running(), kill_flask(), log() (+1 more)
 
-### Community 15 - "Community 15"
+### Community 15 - flask-runner
 Cohesion: 0.56
 Nodes (9): cmd_restart(), cmd_start(), cmd_status(), cmd_stop(), handler(), is_running(), kill_flask(), log() (+1 more)
 
-### Community 17 - "Community 17"
+### Community 17 - transcript_pipeline.py
 Cohesion: 0.47
 Nodes (8): build_markdown(), download_subtitles(), get_title(), main(), markdown_front_matter(), summarize_text(), video_id_from_url(), vtt_to_text()
 
-### Community 18 - "Community 18"
+### Community 18 - playlist_transcript.py
 Cohesion: 0.54
 Nodes (7): download_subtitles(), fetch_playlist_entries(), get_title(), main(), process_video(), video_id_from_url(), vtt_to_text()
 
-### Community 19 - "Community 19"
+### Community 19 - migrate_to_card.py
 Cohesion: 0.43
 Nodes (6): cleanup_old_files(), get_symbol_from_json(), main(), migrate_trade(), Load trade JSON and extract symbol, Delete old 1D_ and RAW_ files after successful migration
 
-### Community 20 - "Community 20"
+### Community 20 - update_widgets.py
 Cohesion: 0.38
 Nodes (6): generate_html(), get_title(), main(), Get title from filename., Generate new HTML with dynamic iframe., Update all widget files.
 
-### Community 22 - "Community 22"
+### Community 22 - yt_transcript_ytdlp.py
 Cohesion: 0.6
 Nodes (5): ensure_dir(), extract_video_id(), fetch_subtitles(), main(), vtt_to_text()
 
-### Community 23 - "Community 23"
+### Community 23 - yt_transcript_ytdlp.py
 Cohesion: 0.6
 Nodes (5): ensure_dir(), extract_video_id(), fetch_subtitles(), main(), vtt_to_text()
 
-### Community 25 - "Community 25"
+### Community 25 - restart_flask.py
 Cohesion: 0.83
 Nodes (3): kill_flask(), restart(), start_flask()
 
-### Community 26 - "Community 26"
+### Community 26 - remove_system_reminder_from_zips.py
 Cohesion: 0.83
 Nodes (3): main(), process_archive(), remove_block_from_text()
 
